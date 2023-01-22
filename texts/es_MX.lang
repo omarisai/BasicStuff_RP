@@ -1,0 +1,108 @@
+pack.name=Paquete Basico v1.0.11
+pack.description=Almacenamiento de experiencia, tumbas de usuarios, cofres seguros.
+tile.basics:xp_block.name=Tanque de XP
+item.basics:xp_bottle_full=Botella de XP - 5 niveles
+
+## Cofres seguros
+item.spawn_egg.entity.basics:locked_chest.name=Cofre Seguro
+entity.basics:locked_chest.name=Cofre Seguro
+item.basics:chest_key=Targeta Llave de Cofre
+item.basics:chest_key_purple=Targeta Llave de Cofre Morada
+item.basics:chest_key_blue=Targeta Llave de Cofre Azul
+item.basics:chest_key_brown=Targeta Llave de Cofre Cafe
+item.basics:chest_key_cyan=Targeta Llave de Cofre Cyan
+item.basics:chest_key_gray=Targeta Llave de Cofre Gris
+item.basics:chest_key_green=Targeta Llave de Cofre Verde
+item.basics:chest_key_light_blue=Targeta Llave de Cofre Azul Claro
+item.basics:chest_key_lime=Targeta Llave de Cofre Verde Lima
+item.basics:chest_key_magenta=Targeta Llave de Cofre Magenta
+item.basics:chest_key_orange=Targeta Llave de Cofre Naranja
+item.basics:chest_key_pink=Targeta Llave de Cofre Rosa
+item.basics:chest_key_red=Targeta Llave de Cofre Roja
+item.basics:chest_key_silver=Targeta Llave de Cofre Plateada
+item.basics:chest_key_white=Targeta Llave de Cofre Blanca
+item.basics:chest_key_yellow=Targeta Llave de Cofre Amarilla
+item.basics:recognition_module=Modulo de Reconocimiento
+item.basics:chest_braker=Rompedor de objetos reforzados
+
+## Llaves de tumba
+item.basics:grave_key=Llave de tumba
+item.basics:grave_key_00=Llave de tumba 00
+item.basics:grave_key_01=Llave de tumba 01
+item.basics:grave_key_02=Llave de tumba 02
+item.basics:grave_key_03=Llave de tumba 03
+item.basics:grave_key_04=Llave de tumba 04
+item.basics:grave_key_05=Llave de tumba 05
+item.basics:grave_key_06=Llave de tumba 06
+item.basics:grave_key_07=Llave de tumba 07
+item.basics:grave_key_08=Llave de tumba 08
+item.basics:grave_key_09=Llave de tumba 09
+item.basics:grave_key_10=Llave de tumba 10
+item.basics:grave_key_11=Llave de tumba 11
+item.basics:grave_key_12=Llave de tumba 12
+
+entity.red:wandering_trader_plus.name=Comerciante Ambulante Plus
+item.spawn_egg.entity.red:wandering_trader_plus.name=Huevo de Comerciante Ambulante Plus
+entity.red:wandering_trader_plains.name=Comerciante Ambulante de la Pradera
+item.spawn_egg.entity.red:wandering_trader_plains.name=Huevo de Comerciante Ambulante de la Pradera
+entity.red:wandering_trader_snow.name=Comerciante Ambulante de la Nieve
+item.spawn_egg.entity.red:wandering_trader_snow.name=Huevo de Comerciante Ambulante de la Nieve
+entity.red:wandering_trader_forest.name=Comerciante Ambulante del Bosque
+item.spawn_egg.entity.red:wandering_trader_forest.name=Huevo de Comerciante Ambulante del Bosque
+entity.red:wandering_trader_desert.name=Comerciante Ambulante del Desierto
+item.spawn_egg.entity.red:wandering_trader_desert.name=Huevo de Comerciante Ambulante del Desierto
+entity.red:wandering_trader_mountain.name=Comerciante Ambulante de la Montaña
+item.spawn_egg.entity.red:wandering_trader_mountain.name=Huevo de Comerciante Ambulante de la Montaña
+
+## Mesas de trabajo
+tile.basics:dark_oak_crafting_table.name=Mesa de trabajo de Roble oscuro
+tile.basics:spruce_crafting_table.name=Mesa de trabajo de Abeto
+tile.basics:birch_crafting_table.name=Mesa de trabajo de Abedul
+tile.basics:acacia_crafting_table.name=Mesa de trabajo de Acacia
+tile.basics:jungle_crafting_table.name=Mesa de trabajo de Selva
+tile.basics:crimson_crafting_table.name=Mesa de trabajo de madera carmesí
+tile.basics:warped_crafting_table.name=Mesa de trabajo de madera deformada
+
+## Materiales reforzados
+tile.basics:stone_reinforced.name=Piedra reforzada
+tile.basics:dirt_reinforced.name=Tierra reforzada
+tile.basics:stonebrick_reinforced.name=Ladrillos de piedra reforzados
+tile.basics:stonebrick_mossy_reinforced.name=Ladrillos de piedra musgosa reforzados
+tile.basics:stonebrick_carved_reinforced.name=Ladrillos de piedra cincelados reforzados
+tile.basics:stonebrick_cracked_reinforced.name=Ladrillos de piedra rotos reforzados
+tile.basics:stone_granite_reinforced.name=Granito reforzado
+tile.basics:stone_granite_smooth_reinforced.name=Granito pulido reforzado
+tile.basics:stone_diorite_reinforced.name=Diorita reforzada
+tile.basics:stone_diorite_smooth_reinforced.name=Diorita pulida reforzada
+tile.basics:stone_andesite_reinforced.name=Andesita reforzada
+tile.basics:stone_andesite_smooth_reinforced.name=Andesita pulida reforzada
+tile.basics:end_stone_reinforced.name=Piedra de end reforzada
+tile.basics:brick_reinforced.name=Ladrillos reforzados
+tile.basics:cobblestone_reinforced.name=Adoquín reforzado
+tile.basics:cobblestone_mossy_reinforced.name=Adoquín musgoso reforzado
+
+tile.basics:planks_acacia_reinforced.name=Tablones de Acacia reforzados
+tile.basics:planks_big_oak_reinforced.name=Tablones Roble oscuro reforzados
+tile.basics:planks_birch_reinforced.name=Tablones Abedul reforzados
+tile.basics:planks_jungle_reinforced.name=Tablones de Selva reforzados
+tile.basics:planks_oak_reinforced.name=Tablones de Roble reforzados
+tile.basics:planks_spruce_reinforced.name=Tablones de Abeto reforzados
+
+tile.basics:concrete_black_reinforced.name=Concreto negro reforzado
+tile.basics:concrete_blue_reinforced.name=Concreto azul reforzado
+tile.basics:concrete_brown_reinforced.name=Concreto café reforzado
+tile.basics:concrete_cyan_reinforced.name=Concreto cyan reforzado
+tile.basics:concrete_gray_reinforced.name=Concreto gris reforzado
+tile.basics:concrete_green_reinforced.name=Concreto verde reforzado
+tile.basics:concrete_light_blue_reinforced.name=Concreto azul claro reforzado
+tile.basics:concrete_lime_reinforced.name=Concreto lima reforzado
+tile.basics:concrete_magenta_reinforced.name=Concreto magenta reforzado
+tile.basics:concrete_orange_reinforced.name=Concreto naranja reforzado
+tile.basics:concrete_pink_reinforced.name=Concreto rosa reforzado
+tile.basics:concrete_purple_reinforced.name=Concreto purpura reforzado
+tile.basics:concrete_red_reinforced.name=Concreto rojo reforzado
+tile.basics:concrete_silver_reinforced.name=Concreto plata reforzado
+tile.basics:concrete_white_reinforced.name=Concreto blanco reforzado
+tile.basics:concrete_yellow_reinforced.name=Concreto amarillo reforzado
+
+action.hint.exit.itemfilter:container=Backpack Open

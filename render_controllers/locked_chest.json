@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.locked_chest": {
+			"arrays": {
+				"textures": {
+					"Array.variants": [
+						"Texture.locked",
+						"Texture.unlocked"
+					]
+				}
+			},
+			"geometry": "Geometry.default",
+			"materials": [
+				{
+					"*": "Material.default"
+				}
+			],
+			"textures": [
+				"Array.variants[query.variant]"
+			]
+		}
+	}
+}

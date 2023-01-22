@@ -1,0 +1,75 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.locked_chest.close": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"open": "query.is_chested"
+						},
+						{
+							"close": "!query.is_chested"
+						}
+					]
+				},
+				"close": {
+					"transitions": [
+						{
+							"default": "query.is_chested"
+						}
+					],
+					"animations": [
+						"close"
+					]
+				},
+				"open": {
+					"transitions": [
+						{
+							"default": "!query.is_chested"
+						}
+					],
+					"animations": [
+						"open"
+					]
+				}
+			}
+		},
+		"controller.animation.locked_chest.lock": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"lock": "query.variant == 0"
+						},
+						{
+							"unlock": "query.variant == 1"
+						}
+					]
+				},
+				"lock": {
+					"transitions": [
+						{
+							"default": "query.variant == 1"
+						}
+					],
+					"animations": [
+						"lock"
+					]
+				},
+				"unlock": {
+					"transitions": [
+						{
+							"default": "query.variant == 0"
+						}
+					],
+					"animations": [
+						"unlock"
+					]
+				}
+			}
+		}
+	}
+}

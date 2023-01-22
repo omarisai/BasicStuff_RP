@@ -1,0 +1,36 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "basics:locked_chest_orange",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "basics_chest"
+			},
+			"textures": {
+				"locked": "textures/entity/locked_chest/90",
+				"unlocked": "textures/entity/locked_chest/91"
+			},
+			"geometry": {
+				"default": "geometry.locked_chest"
+			},
+			"animations": {
+				"open": "animation.locked_chest.open",
+				"close": "animation.locked_chest.close",
+				"lock": "animation.locked_chest.lock",
+				"unlock": "animation.locked_chest.unlock"
+			},
+			"animation_controllers": [
+				{
+					"open": "controller.animation.locked_chest.close"
+				},
+				{
+					"unlock": "controller.animation.locked_chest.lock"
+				}
+			],
+			"render_controllers": [
+				"controller.render.locked_chest"
+			]
+		}
+	}
+}

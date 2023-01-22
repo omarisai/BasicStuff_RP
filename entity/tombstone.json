@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "basics:tombstone",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "skeleton"
+			},
+			"textures": {
+				"default": "textures/entity/tombstone"
+			},
+			"geometry": {
+				"default": "geometry.tombstone"
+			},
+			"render_controllers": [
+				"controller.render.tombstone"
+			],
+			"spawn_egg": {
+				"texture": "tombstone"
+			}
+		}
+	}
+}

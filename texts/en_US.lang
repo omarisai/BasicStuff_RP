@@ -1,0 +1,108 @@
+pack.name=BasicStuff v1.0.11
+pack.description=Experience storage, player tombstone, lockable chests.
+tile.basics:xp_block.name=XP Level Tank
+item.basics:xp_bottle_full=XP Level Bottle - 5 Levels Stored
+
+## Secure chests
+item.spawn_egg.entity.basics:locked_chest.name=Lockable Chest
+entity.basics:locked_chest.name=Lockable Chest
+item.basics:chest_key=Chest Key Card
+item.basics:chest_key_purple=Purple Chest Key Card
+item.basics:chest_key_blue=Blue Chest Key Card
+item.basics:chest_key_brown=Brown Chest Key Card
+item.basics:chest_key_cyan=Cyan Chest Key Card
+item.basics:chest_key_gray=Gray Chest Key Card
+item.basics:chest_key_green=Green Chest Key Card
+item.basics:chest_key_light_blue=Light Blue Chest Key Card
+item.basics:chest_key_lime=Lime Chest Key Card
+item.basics:chest_key_magenta=Magenta Chest Key Card
+item.basics:chest_key_orange=Orange Chest Key Card
+item.basics:chest_key_pink=Pink Chest Key Card
+item.basics:chest_key_red=Red Chest Key Card
+item.basics:chest_key_silver=Silver Chest Key Card
+item.basics:chest_key_white=White Chest Key Card
+item.basics:chest_key_yellow=Yellow Chest Key Card
+item.basics:recognition_module=Recognition Module
+item.basics:chest_braker=Reinforced objects Braker
+
+## Gravestone keys
+item.basics:grave_key=Grave Key
+item.basics:grave_key_00=Grave Key 00
+item.basics:grave_key_01=Grave Key 01
+item.basics:grave_key_02=Grave Key 02
+item.basics:grave_key_03=Grave Key 03
+item.basics:grave_key_04=Grave Key 04
+item.basics:grave_key_05=Grave Key 05
+item.basics:grave_key_06=Grave Key 06
+item.basics:grave_key_07=Grave Key 07
+item.basics:grave_key_08=Grave Key 08
+item.basics:grave_key_09=Grave Key 09
+item.basics:grave_key_10=Grave Key 10
+item.basics:grave_key_11=Grave Key 11
+item.basics:grave_key_12=Grave Key 12
+
+entity.red:wandering_trader_plus.name=Wandering Trader Plus
+item.spawn_egg.entity.red:wandering_trader_plus.name=Spawn Wandering Trader Plus
+entity.red:wandering_trader_plains.name=Wandering Trader Plains
+item.spawn_egg.entity.red:wandering_trader_plains.name=Spawn Wandering Trader Plains
+entity.red:wandering_trader_snow.name=Wandering Trader Snow
+item.spawn_egg.entity.red:wandering_trader_snow.name=Spawn Wandering Trader Snow
+entity.red:wandering_trader_forest.name=Wandering Trader Forest
+item.spawn_egg.entity.red:wandering_trader_forest.name=Spawn Wandering Trader Forest
+entity.red:wandering_trader_desert.name=Wandering Trader Desert
+item.spawn_egg.entity.red:wandering_trader_desert.name=Spawn Wandering Trader Desert
+entity.red:wandering_trader_mountain.name=Wandering Trader Mountain
+item.spawn_egg.entity.red:wandering_trader_mountain.name=Spawn Wandering Trader Mountain
+
+## Crafting tables
+tile.basics:dark_oak_crafting_table.name=Dark Oak Crafting Table
+tile.basics:spruce_crafting_table.name=Spruce Crafting Table
+tile.basics:birch_crafting_table.name=Birch Crafting Table
+tile.basics:acacia_crafting_table.name=Acacia Crafting Table
+tile.basics:jungle_crafting_table.name=Jungle Crafting Table
+tile.basics:crimson_crafting_table.name=Crimson Crafting Table
+tile.basics:warped_crafting_table.name=Warped Crafting Table
+
+## Reinforced materials
+tile.basics:stone_reinforced.name=Stone reinforced
+tile.basics:dirt_reinforced.name=Dirt reinforced
+tile.basics:stonebrick_reinforced.name=Stonebrick reinforced
+tile.basics:stonebrick_mossy_reinforced.name=Stonebrick mossy reinforced
+tile.basics:stonebrick_carved_reinforced.name=Stonebrick carved reinforced
+tile.basics:stonebrick_cracked_reinforced.name=Stonebrick cracked reinforced
+tile.basics:stone_granite_reinforced.name=Granite reinforced
+tile.basics:stone_granite_smooth_reinforced.name=Granite smooth reinforced
+tile.basics:stone_diorite_reinforced.name=Diorite reinforced
+tile.basics:stone_diorite_smooth_reinforced.name=Diorite smooth reinforced
+tile.basics:stone_andesite_reinforced.name=Andesite reinforced
+tile.basics:stone_andesite_smooth_reinforced.name=Andesite smooth reinforced
+tile.basics:end_stone_reinforced.name=End stone reinforced
+tile.basics:brick_reinforced.name=Brick reinforced
+tile.basics:cobblestone_reinforced.name=Cobblestone reinforced
+tile.basics:cobblestone_mossy_reinforced.name=Cobblestone mossy reinforced
+
+tile.basics:planks_acacia_reinforced.name=Acacia Wood Planks Reinforced
+tile.basics:planks_big_oak_reinforced.name=Dark Oak Wood Planks Reinforced
+tile.basics:planks_birch_reinforced.name=Birch Wood Planks Reinforced
+tile.basics:planks_jungle_reinforced.name=Jungle Wood Planks Reinforced
+tile.basics:planks_oak_reinforced.name=Oak Wood Planks Reinforced
+tile.basics:planks_spruce_reinforced.name=Spruce Wood Planks Reinforced
+
+tile.basics:concrete_black_reinforced.name=Black concrete reinforced
+tile.basics:concrete_blue_reinforced.name=Blue concrete reinforced
+tile.basics:concrete_brown_reinforced.name=Brown concrete reinforced
+tile.basics:concrete_cyan_reinforced.name=Cyan concrete reinforced
+tile.basics:concrete_gray_reinforced.name=Gray concrete reinforced
+tile.basics:concrete_green_reinforced.name=Green concrete reinforced
+tile.basics:concrete_light_blue_reinforced.name=Light blue concrete reinforced
+tile.basics:concrete_lime_reinforced.name=Lime concrete reinforced
+tile.basics:concrete_magenta_reinforced.name=Magenta concrete reinforced
+tile.basics:concrete_orange_reinforced.name=Orange concrete reinforced
+tile.basics:concrete_pink_reinforced.name=Pink concrete reinforced
+tile.basics:concrete_purple_reinforced.name=Purple concrete reinforced
+tile.basics:concrete_red_reinforced.name=Red concrete reinforced
+tile.basics:concrete_silver_reinforced.name=Silver concrete reinforced
+tile.basics:concrete_white_reinforced.name=White concrete reinforced
+tile.basics:concrete_yellow_reinforced.name=Yellow concrete reinforced
+
+action.hint.exit.itemfilter:container=Backpack Open

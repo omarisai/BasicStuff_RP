@@ -1,0 +1,81 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"xp_bottle_full": {
+			"textures": "textures/items/xp_bottle_full"
+		},
+		"basics_chest": {
+			"textures": "textures/items/chest"
+		},
+		"basics_chest_key": {
+			"textures": "textures/items/chest_key"
+		},
+		"basics_chest_key_purple": {
+			"textures": "textures/items/chest_key_purple"
+		},
+		"basics_chest_key_blue": {
+			"textures": "textures/items/chest_key_blue"
+		},
+		"basics_chest_key_brown": {
+			"textures": "textures/items/chest_key_brown"
+		},
+		"basics_chest_key_cyan": {
+			"textures": "textures/items/chest_key_cyan"
+		},
+		"basics_chest_key_gray": {
+			"textures": "textures/items/chest_key_gray"
+		},
+		"basics_chest_key_green": {
+			"textures": "textures/items/chest_key_green"
+		},
+		"basics_chest_key_light_blue": {
+			"textures": "textures/items/chest_key_light_blue"
+		},
+		"basics_chest_key_lime": {
+			"textures": "textures/items/chest_key_lime"
+		},
+		"basics_chest_key_magenta": {
+			"textures": "textures/items/chest_key_magenta"
+		},
+		"basics_chest_key_orange": {
+			"textures": "textures/items/chest_key_orange"
+		},
+		"basics_chest_key_pink": {
+			"textures": "textures/items/chest_key_pink"
+		},
+		"basics_chest_key_red": {
+			"textures": "textures/items/chest_key_red"
+		},
+		"basics_chest_key_silver": {
+			"textures": "textures/items/chest_key_silver"
+		},
+		"basics_chest_key_white": {
+			"textures": "textures/items/chest_key_white"
+		},
+		"basics_chest_key_yellow": {
+			"textures": "textures/items/chest_key_yellow"
+		},
+		"basics_recognition_module": {
+			"textures": "textures/items/recognition_module"
+		},
+		"basics_chest_braker": {
+			"textures": "textures/items/chest_braker"
+		},
+		"grave_key": {
+			"textures": "textures/items/grave_key"
+		},
+		"backpack": {
+			"textures": "textures/bp/backpack"
+		},
+		"backpack_medium": {
+			"textures": "textures/bp/backpack_medium"
+		},
+		"backpack_big": {
+			"textures": "textures/bp/backpack_big"
+		},
+		"backpack_xl": {
+			"textures": "textures/bp/backpack_xl"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+[
+	{
+		"flipbook_texture": "textures/blocks/xp_block_side",
+		"atlas_tile": "xp_block_side",
+		"ticks_per_frame": 16,
+		"blend_frames": true
+	},
+	{
+		"flipbook_texture": "textures/blocks/xp_block_top",
+		"atlas_tile": "xp_block_top",
+		"ticks_per_frame": 16,
+		"blend_frames": true
+	}
+]

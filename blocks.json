@@ -1,0 +1,163 @@
+{
+	"format_version": "1.18.2",
+	"basics:xp_block": {
+		"textures": {
+			"up": "xp_block_top",
+			"down": "xp_block_side",
+			"side": "xp_block_side"
+		},
+		"sound": "glass"
+	},
+	"basics:concrete_black_reinforced": {
+		"textures": "concrete_black_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_blue_reinforced": {
+		"textures": "concrete_blue_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_brown_reinforced": {
+		"textures": "concrete_brown_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_cyan_reinforced": {
+		"textures": "concrete_cyan_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_gray_reinforced": {
+		"textures": "concrete_gray_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_green_reinforced": {
+		"textures": "concrete_green_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_light_blue_reinforced": {
+		"textures": "concrete_light_blue_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_lime_reinforced": {
+		"textures": "concrete_lime_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_magenta_reinforced": {
+		"textures": "concrete_magenta_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_orange_reinforced": {
+		"textures": "concrete_orange_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_pink_reinforced": {
+		"textures": "concrete_pink_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_purple_reinforced": {
+		"textures": "concrete_purple_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_red_reinforced": {
+		"textures": "concrete_red_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_silver_reinforced": {
+		"textures": "concrete_silver_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_white_reinforced": {
+		"textures": "concrete_white_reinforced",
+		"sound": "stone"
+	},
+	"basics:concrete_yellow_reinforced": {
+		"textures": "concrete_yellow_reinforced",
+		"sound": "stone"
+	},
+	"basics:stone_granite_smooth_reinforced": {
+		"textures": "stone_granite_smooth_reinforced",
+		"sound": "stone"
+	},
+	"basics:dirt_reinforced": {
+		"textures": "dirt_reinforced",
+		"sound": "dirt"
+	},
+	"basics:cobblestone_mossy_reinforced": {
+		"textures": "cobblestone_mossy_reinforced",
+		"sound": "stone"
+	},
+	"basics:cobblestone_reinforced": {
+		"textures": "cobblestone_reinforced",
+		"sound": "stone"
+	},
+	"basics:brick_reinforced": {
+		"textures": "brick_reinforced",
+		"sound": "stone"
+	},
+	"basics:stone_reinforced": {
+		"textures": "stone_reinforced",
+		"sound": "stone"
+	},
+	"basics:stonebrick_carved_reinforced": {
+		"textures": "stonebrick_carved_reinforced",
+		"sound": "stone"
+	},
+	"basics:stonebrick_cracked_reinforced": {
+		"textures": "stonebrick_cracked_reinforced",
+		"sound": "stone"
+	},
+	"basics:stonebrick_mossy_reinforced": {
+		"textures": "stonebrick_mossy_reinforced",
+		"sound": "stone"
+	},
+	"basics:stonebrick_reinforced": {
+		"textures": "stonebrick_reinforced",
+		"sound": "stone"
+	},
+	"basics:stone_granite_reinforced": {
+		"textures": "stone_granite_reinforced",
+		"sound": "stone"
+	},
+	"basics:stone_diorite_smooth_reinforced": {
+		"textures": "stone_diorite_smooth_reinforced",
+		"sound": "stone"
+	},
+	"basics:stone_diorite_reinforced": {
+		"textures": "stone_diorite_reinforced",
+		"sound": "stone"
+	},
+	"basics:stone_andesite_smooth_reinforced": {
+		"textures": "stone_andesite_smooth_reinforced",
+		"sound": "stone"
+	},
+	"basics:stone_andesite_reinforced": {
+		"textures": "stone_andesite_reinforced",
+		"sound": "stone"
+	},
+	"basics:end_stone_reinforced": {
+		"textures": "end_stone_reinforced",
+		"sound": "stone"
+	},
+	"basics:planks_acacia_reinforced": {
+		"textures": "planks_acacia_reinforced",
+		"sound": "wood"
+	},
+	"basics:planks_big_oak_reinforced": {
+		"textures": "planks_big_oak_reinforced",
+		"sound": "wood"
+	},
+	"basics:planks_birch_reinforced": {
+		"textures": "planks_birch_reinforced",
+		"sound": "wood"
+	},
+	"basics:planks_jungle_reinforced": {
+		"textures": "planks_jungle_reinforced",
+		"sound": "wood"
+	},
+	"basics:planks_spruce_reinforced": {
+		"textures": "planks_spruce_reinforced",
+		"sound": "wood"
+	},
+	"basics:planks_oak_reinforced": {
+		"textures": "planks_oak_reinforced",
+		"sound": "wood"
+	}
+}

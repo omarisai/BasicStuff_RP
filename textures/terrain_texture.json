@@ -1,0 +1,149 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"xp_block_top": {
+			"textures": "textures/blocks/xp_block_top"
+		},
+		"xp_block_side": {
+			"textures": "textures/blocks/xp_block_side"
+		},
+		"dark_oak_crafting_table": {
+			"textures": "textures/blocks/crafting_tables/dark_oak_crafting_table"
+		},
+		"spruce_crafting_table": {
+			"textures": "textures/blocks/crafting_tables/spruce_crafting_table"
+		},
+		"birch_crafting_table": {
+			"textures": "textures/blocks/crafting_tables/birch_crafting_table"
+		},
+		"jungle_crafting_table": {
+			"textures": "textures/blocks/crafting_tables/jungle_crafting_table"
+		},
+		"acacia_crafting_table": {
+			"textures": "textures/blocks/crafting_tables/acacia_crafting_table"
+		},
+		"warped_crafting_table": {
+			"textures": "textures/blocks/crafting_tables/warped_crafting_table"
+		},
+		"crimson_crafting_table": {
+			"textures": "textures/blocks/crafting_tables/crimson_crafting_table"
+		},
+		"dirt_reinforced": {
+			"textures": "textures/blocks/reinforced/dirt_reinforced"
+		},
+		"brick_reinforced": {
+			"textures": "textures/blocks/reinforced/bricks/brick_reinforced"
+		},
+		"cobblestone_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/cobblestone_reinforced"
+		},
+		"cobblestone_mossy_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/cobblestone_mossy_reinforced"
+		},
+		"stone_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/stone_reinforced"
+		},
+		"stonebrick_reinforced": {
+			"textures": "textures/blocks/reinforced/bricks/stonebrick_reinforced"
+		},
+		"stonebrick_mossy_reinforced": {
+			"textures": "textures/blocks/reinforced/bricks/stonebrick_mossy_reinforced"
+		},
+		"stonebrick_cracked_reinforced": {
+			"textures": "textures/blocks/reinforced/bricks/stonebrick_cracked_reinforced"
+		},
+		"stonebrick_carved_reinforced": {
+			"textures": "textures/blocks/reinforced/bricks/stonebrick_carved_reinforced"
+		},
+		"stone_andesite_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/stone_andesite_reinforced"
+		},
+		"stone_andesite_smooth_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/stone_andesite_smooth_reinforced"
+		},
+		"stone_diorite_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/stone_diorite_reinforced"
+		},
+		"concrete_white_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_white_reinforced"
+		},
+		"concrete_orange_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_orange_reinforced"
+		},
+		"concrete_magenta_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_magenta_reinforced"
+		},
+		"concrete_light_blue_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_light_blue_reinforced"
+		},
+		"concrete_yellow_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_yellow_reinforced"
+		},
+		"concrete_lime_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_lime_reinforced"
+		},
+		"concrete_pink_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_pink_reinforced"
+		},
+		"concrete_gray_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_gray_reinforced"
+		},
+		"concrete_silver_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_silver_reinforced"
+		},
+		"concrete_cyan_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_cyan_reinforced"
+		},
+		"concrete_purple_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_purple_reinforced"
+		},
+		"concrete_blue_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_blue_reinforced"
+		},
+		"concrete_brown_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_brown_reinforced"
+		},
+		"concrete_green_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_green_reinforced"
+		},
+		"concrete_red_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_red_reinforced"
+		},
+		"concrete_black_reinforced": {
+			"textures": "textures/blocks/reinforced/concrete/concrete_black_reinforced"
+		},
+		"stone_diorite_smooth_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/stone_diorite_smooth_reinforced"
+		},
+		"stone_granite_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/stone_granite_reinforced"
+		},
+		"stone_granite_smooth_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/stone_granite_smooth_reinforced"
+		},
+		"end_stone_reinforced": {
+			"textures": "textures/blocks/reinforced/stone/end_stone_reinforced"
+		},
+		"planks_acacia_reinforced": {
+			"textures": "textures/blocks/reinforced/planks/planks_acacia_reinforced"
+		},
+		"planks_big_oak_reinforced": {
+			"textures": "textures/blocks/reinforced/planks/planks_big_oak_reinforced"
+		},
+		"planks_birch_reinforced": {
+			"textures": "textures/blocks/reinforced/planks/planks_birch_reinforced"
+		},
+		"planks_jungle_reinforced": {
+			"textures": "textures/blocks/reinforced/planks/planks_jungle_reinforced"
+		},
+		"planks_oak_reinforced": {
+			"textures": "textures/blocks/reinforced/planks/planks_oak_reinforced"
+		},
+		"planks_spruce_reinforced": {
+			"textures": "textures/blocks/reinforced/planks/planks_spruce_reinforced"
+		}
+	}
+}

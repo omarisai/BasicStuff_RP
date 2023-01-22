@@ -1,0 +1,8 @@
+{
+	"materials": {
+		"version": "1.0.0",
+
+		"basics_chest:entity_alphatest": {},
+		"basics:entity_alphatest": {}
+	}
+}

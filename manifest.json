@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "f521c6e0-4d47-41ec-9b14-12e500125e55",
+		"platform_locked": false,
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"version": [
+			1,
+			0,
+			11
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "f521c6e0-4d47-41ec-9b14-12e57770d01e",
+			"version": [
+				1,
+				0,
+				11
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "f521c6e0-4d47-41ec-9b14-da7ada7ada7a",
+			"version": [
+				1,
+				0,
+				11
+			]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "force",
+			"memory_tier": 1,
+			"name": "Force UI"
+		},
+		{
+			"folder_name": "com",
+			"memory_tier": 0,
+			"name": "Compatibility"
+		}
+	]
+}
