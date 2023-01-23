@@ -1,4 +1,4 @@
-pack.name=Paquete Basico v1.0.13
+pack.name=Paquete Basico v1.0.14
 pack.description=Almacenamiento de experiencia, tumbas de usuarios, cofres seguros.
 tile.basics:xp_block.name=Tanque de XP
 item.basics:xp_bottle_full=Botella de XP - 5 niveles
