@@ -106,3 +106,27 @@ tile.basics:concrete_white_reinforced.name=White concrete reinforced
 tile.basics:concrete_yellow_reinforced.name=Yellow concrete reinforced
 
 action.hint.exit.itemfilter:container=Backpack Open
+
+## Ores
+tile.basics:super_coal_ore.name=Super Coal Ore
+tile.basics:super_copper_ore.name=Super Copper Ore
+tile.basics:super_iron_ore.name=Super Iron Ore
+tile.basics:super_lapis_lazuli_ore.name=Super Lapis Lazuli Ore
+tile.basics:super_redstone_ore.name=Super Redstone Ore
+tile.basics:super_emerald_ore.name=Super Emerald Ore
+tile.basics:super_gold_ore.name=Super Gold Ore
+tile.basics:super_diamond_ore.name=Super Diamond Ore
+
+## Deepslate Ores
+tile.basics:super_deepslate_coal_ore.name=Super Deepslate Coal Ore
+tile.basics:super_deepslate_copper_ore.name=Super Deepslate Copper Ore
+tile.basics:super_deepslate_iron_ore.name=Super Deepslate Iron Ore
+tile.basics:super_deepslate_lapis_lazuli_ore.name=Super Deepslate Lapis Lazuli Ore
+tile.basics:super_deepslate_redstone_ore.name=Super Deepslate Redstone Ore
+tile.basics:super_deepslate_emerald_ore.name=Super Deepslate Emerald Ore
+tile.basics:super_deepslate_gold_ore.name=Super Deepslate Gold Ore
+tile.basics:super_deepslate_diamond_ore.name=Super Deepslate Diamond Ore
+
+## Nether
+tile.basics:super_nether_quartz_ore.name=Super Nether Quartz Ore
+tile.basics:super_nether_gold_ore.name=Super Nether Gold Ore

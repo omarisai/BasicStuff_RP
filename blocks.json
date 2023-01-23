@@ -159,5 +159,85 @@
 	"basics:planks_oak_reinforced": {
 		"textures": "planks_oak_reinforced",
 		"sound": "wood"
+	},
+	"basics:super_deepslate_emerald_ore": {
+		"textures": "super_deepslate_emerald_ore",
+		"isotropic": false,
+		"sound": "deepslate"
+	},
+	"basics:super_deepslate_coal_ore": {
+		"textures": "super_deepslate_coal_ore",
+		"isotropic": false,
+		"sound": "deepslate"
+	},
+	"basics:super_iron_ore": {
+		"textures": "super_iron_ore",
+		"sound": "stone"
+	},
+	"basics:super_deepslate_copper_ore": {
+		"textures": "super_deepslate_copper_ore",
+		"isotropic": false,
+		"sound": "deepslate"
+	},
+	"basics:super_coal_ore": {
+		"textures": "super_coal_ore",
+		"sound": "stone"
+	},
+	"basics:super_deepslate_gold_ore": {
+		"textures": "super_deepslate_gold_ore",
+		"isotropic": false,
+		"sound": "deepslate"
+	},
+	"basics:super_deepslate_iron_ore": {
+		"textures": "super_deepslate_iron_ore",
+		"isotropic": false,
+		"sound": "deepslate"
+	},
+	"basics:super_redstone_ore": {
+		"textures": "super_redstone_ore",
+		"sound": "stone"
+	},
+	"basics:super_deepslate_redstone_ore": {
+		"textures": "super_deepslate_redstone_ore",
+		"isotropic": false,
+		"sound": "deepslate"
+	},
+	"basics:super_gold_ore": {
+		"textures": "super_gold_ore",
+		"sound": "stone"
+	},
+	"basics:super_emerald_ore": {
+		"textures": "super_emerald_ore",
+		"sound": "stone"
+	},
+	"basics:super_lapis_lazuli_ore": {
+		"textures": "super_lapis_lazuli_ore",
+		"sound": "stone"
+	},
+	"basics:super_nether_quartz_ore": {
+		"textures": "super_nether_quartz_ore",
+		"sound": "nether_gold_ore"
+	},
+	"basics:super_copper_ore": {
+		"textures": "super_copper_ore",
+		"sound": "stone"
+	},
+	"basics:super_nether_gold_ore": {
+		"textures": "super_nether_gold_ore",
+		"sound": "nether_gold_ore"
+	},
+	"basics:super_deepslate_lapis_lazuli_ore": {
+		"textures": "super_deepslate_lapis_lazuli_ore",
+		"isotropic": false,
+		"sound": "deepslate"
+	},
+	"basics:super_diamond_ore": {
+		"textures": "super_diamond_ore",
+		"sound": "stone"
+	},
+	"basics:super_deepslate_diamond_ore": {
+		"textures": "super_deepslate_diamond_ore",
+		"isotropic": false,
+		"sound": "deepslate"
 	}
 }

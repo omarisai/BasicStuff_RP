@@ -144,6 +144,96 @@
 		},
 		"planks_spruce_reinforced": {
 			"textures": "textures/blocks/reinforced/planks/planks_spruce_reinforced"
+		},
+		"super_deepslate_coal_ore": {
+			"textures": [
+				"textures/blocks/super_deepslate_coal_ore"
+			]
+		},
+		"super_iron_ore": {
+			"textures": [
+				"textures/blocks/super_iron_ore"
+			]
+		},
+		"super_coal_ore": {
+			"textures": [
+				"textures/blocks/super_coal_ore"
+			]
+		},
+		"super_deepslate_iron_ore": {
+			"textures": [
+				"textures/blocks/super_deepslate_iron_ore"
+			]
+		},
+		"super_copper_ore": {
+			"textures": [
+				"textures/blocks/super_copper_ore"
+			]
+		},
+		"super_gold_ore": {
+			"textures": [
+				"textures/blocks/super_gold_ore"
+			]
+		},
+		"super_deepslate_gold_ore": {
+			"textures": [
+				"textures/blocks/super_deepslate_gold_ore"
+			]
+		},
+		"super_deepslate_copper_ore": {
+			"textures": [
+				"textures/blocks/super_deepslate_copper_ore"
+			]
+		},
+		"super_redstone_ore": {
+			"textures": [
+				"textures/blocks/super_redstone_ore"
+			]
+		},
+		"super_lapis_lazuli_ore": {
+			"textures": [
+				"textures/blocks/super_lapis_lazuli_ore"
+			]
+		},
+		"super_diamond_ore": {
+			"textures": [
+				"textures/blocks/super_diamond_ore"
+			]
+		},
+		"super_deepslate_redstone_ore": {
+			"textures": [
+				"textures/blocks/super_deepslate_redstone_ore"
+			]
+		},
+		"super_deepslate_diamond_ore": {
+			"textures": [
+				"textures/blocks/super_deepslate_diamond_ore"
+			]
+		},
+		"super_deepslate_emerald_ore": {
+			"textures": [
+				"textures/blocks/super_deepslate_emerald_ore"
+			]
+		},
+		"super_emerald_ore": {
+			"textures": [
+				"textures/blocks/super_emerald_ore"
+			]
+		},
+		"super_nether_quartz_ore": {
+			"textures": [
+				"textures/blocks/super_nether_quartz_ore"
+			]
+		},
+		"super_nether_gold_ore": {
+			"textures": [
+				"textures/blocks/super_nether_gold_ore"
+			]
+		},
+		"super_deepslate_lapis_lazuli_ore": {
+			"textures": [
+				"textures/blocks/super_deepslate_lapis_lazuli_ore"
+			]
 		}
 	}
 }

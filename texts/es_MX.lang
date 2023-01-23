@@ -106,3 +106,27 @@ tile.basics:concrete_white_reinforced.name=Concreto blanco reforzado
 tile.basics:concrete_yellow_reinforced.name=Concreto amarillo reforzado
 
 action.hint.exit.itemfilter:container=Backpack Open
+
+## Ores
+tile.basics:super_coal_ore.name=Mineral rico en Carbón
+tile.basics:super_copper_ore.name=Mineral rico en Cobre
+tile.basics:super_iron_ore.name=Mineral rico en Hierro
+tile.basics:super_lapis_lazuli_ore.name=Mineral rico en Lapiazul
+tile.basics:super_redstone_ore.name=Mineral rico en Carbón
+tile.basics:super_emerald_ore.name=Mineral rico en Esmeralda
+tile.basics:super_gold_ore.name=Mineral rico en Oro
+tile.basics:super_diamond_ore.name=Mineral rico en Diamante
+
+## Deepslate Ores
+tile.basics:super_deepslate_coal_ore.name=Pizarra rica en Carbón
+tile.basics:super_deepslate_copper_ore.name=Pizarra rica en Cobre
+tile.basics:super_deepslate_iron_ore.name=Pizarra rica en Hierro
+tile.basics:super_deepslate_lapis_lazuli_ore.name=Pizarra rica en Lapiazul
+tile.basics:super_deepslate_redstone_ore.name=Pizarra rica en Redstone
+tile.basics:super_deepslate_emerald_ore.name=Pizarra rica en Esmeralda
+tile.basics:super_deepslate_gold_ore.name=Pizarra rica en Oro
+tile.basics:super_deepslate_diamond_ore.name=Pizarra rica en Diamante
+
+## Nether
+tile.basics:super_nether_quartz_ore.name=Mineral de Cuarzo del Inframundo
+tile.basics:super_nether_gold_ore.name=Mineral de Oro del Inframundo
