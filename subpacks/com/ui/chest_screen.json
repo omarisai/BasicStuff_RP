@@ -26,10 +26,7 @@
 	//---
 	"small_chest_panel_top_half": {
 		"type": "panel",
-		"size": [
-			"100%",
-			"50%"
-		],
+		"size": [ "100%", "50%" ],
 		"offset": [ 0, 12 ],
 		"anchor_to": "top_left",
 		"anchor_from": "top_left",
@@ -54,7 +51,7 @@
 					"layer": 10,
 					"type": "image",
 					"size": [ 132, 64 ],
-					"offset": [ 132, 64 ],
+					"offset": [ -2, 0 ],
 					"texture": "textures/bp_ui_credit"
 				}
 			},
@@ -83,10 +80,7 @@
 	//custom scroll panel
 	"my_custom_container_no_scroll_panel_top_half": {
 		"type": "panel",
-		"size": [
-			"100%",
-			102
-		],
+		"size": [ "100%", 102 ],
 		"offset": [ 0, 11 ],
 		"anchor_to": "top_left",
 		"anchor_from": "top_left",
@@ -98,13 +92,13 @@
 				"credit_panel@common.common_panel": {
 					"layer": 999,
 					"offset": [ -95, 37 ],
-					"size": [ -95, 37 ],
+					"size": [ 50, 50 ],
 					"controls": [
 						{
 							"credit_button": {
 								"type": "button",
 								"size": [ 16, 16 ],
-								"offset": [ 16, 16 ],
+								"offset": [ 0, 11 ],
 								"hover_control": "credit_panel_content",
 								"controls": [
 									{
@@ -128,7 +122,7 @@
 			{
 				"scrolling_panel@common.container_scroll_panel": {
 					"offset": [ 0, 11 ],
-					"size": [ 0, 11 ],
+					"size": [ 164, 90 ],
 					"$scrolling_content|default": "chest.my_custom_container_grid"
 				}
 			}
@@ -136,10 +130,7 @@
 	},
 	"my_custom_container_scroll_panel_top_half": {
 		"type": "panel",
-		"size": [
-			"100%",
-			102
-		],
+		"size": [ "100%", 102 ],
 		"offset": [ 0, 11 ],
 		"anchor_to": "top_left",
 		"anchor_from": "top_left",
@@ -151,13 +142,13 @@
 				"credit_panel@common.common_panel": {
 					"layer": 999,
 					"offset": [ -95, 37 ],
-					"size": [ -95, 37 ],
+					"size": [ 50, 50 ],
 					"controls": [
 						{
 							"credit_button": {
 								"type": "button",
 								"size": [ 16, 16 ],
-								"offset": [ 16, 16 ],
+								"offset": [ 0, 11 ],
 								"hover_control": "credit_panel_content",
 								"controls": [
 									{
@@ -181,7 +172,7 @@
 			{
 				"scrolling_panel@common.container_scroll_panel": {
 					"offset": [ 3, 11 ],
-					"size": [ 3, 11 ],
+					"size": [ 170, 90 ],
 					"$scrolling_content|default": "chest.my_custom_container_grid"
 				}
 			}
