@@ -65,10 +65,7 @@
 		"ancient_debris": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.ancient_debris",
 					"volume": 1.0
 				},
@@ -83,10 +80,7 @@
 					"sound": "use.ancient_debris"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.ancient_debris",
 					"volume": 1.0
 				},
@@ -105,10 +99,7 @@
 		"anvil": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -123,10 +114,7 @@
 					"sound": "use.stone"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "random.anvil_land",
 					"volume": 0.50
 				},
@@ -145,10 +133,7 @@
 		"azalea": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.azalea",
 					"volume": 1.0
 				},
@@ -163,10 +148,7 @@
 					"sound": "use.azalea"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.azalea",
 					"volume": 1.0
 				},
@@ -185,10 +167,7 @@
 		"azalea_leaves": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.azalea_leaves",
 					"volume": 1.0
 				},
@@ -203,10 +182,7 @@
 					"sound": "use.azalea_leaves"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.azalea_leaves",
 					"volume": 1.0
 				},
@@ -225,10 +201,7 @@
 		"bamboo": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.bamboo.break",
 					"volume": 1.0
 				},
@@ -243,10 +216,7 @@
 					"sound": "block.bamboo.place"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.bamboo.place",
 					"volume": 1.0
 				},
@@ -265,10 +235,7 @@
 		"bamboo_sapling": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.bamboo_sapling.break",
 					"volume": 1.0
 				},
@@ -283,10 +250,7 @@
 					"sound": "block.bamboo_sapling.place"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.bamboo_sapling.place",
 					"volume": 1.0
 				},
@@ -305,10 +269,7 @@
 		"basalt": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.basalt",
 					"volume": 1.0
 				},
@@ -323,10 +284,7 @@
 					"sound": "use.basalt"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.basalt",
 					"volume": 1.0
 				},
@@ -345,10 +303,7 @@
 		"big_dripleaf": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.big_dripleaf",
 					"volume": 1.0
 				},
@@ -363,10 +318,7 @@
 					"sound": "use.big_dripleaf"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.big_dripleaf",
 					"volume": 1.0
 				},
@@ -385,10 +337,7 @@
 		"bone_block": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.bone_block",
 					"volume": 1.0
 				},
@@ -403,10 +352,7 @@
 					"sound": "use.bone_block"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.bone_block",
 					"volume": 1.0
 				},
@@ -490,10 +436,7 @@
 		"cave_vines": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.cave_vines",
 					"volume": 1.0
 				},
@@ -508,10 +451,7 @@
 					"sound": "use.cave_vines"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.cave_vines",
 					"volume": 1.0
 				}
@@ -522,10 +462,7 @@
 		"chain": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.chain",
 					"volume": 1.0
 				},
@@ -540,10 +477,7 @@
 					"sound": "use.chain"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.chain",
 					"volume": 1.0
 				},
@@ -562,10 +496,7 @@
 		"cloth": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.cloth",
 					"volume": 1.0
 				},
@@ -580,10 +511,7 @@
 					"sound": "use.cloth"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.cloth",
 					"volume": 1.0
 				},
@@ -602,10 +530,7 @@
 		"comparator": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.wood",
 					"volume": 1.0
 				},
@@ -620,10 +545,7 @@
 					"sound": "use.wood"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						0.80
-					],
+					"pitch": [ 0.80, 0.80 ],
 					"sound": "dig.wood",
 					"volume": 1.0
 				},
@@ -642,10 +564,7 @@
 		"copper": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.copper",
 					"volume": 1.0
 				},
@@ -660,10 +579,7 @@
 					"sound": "use.copper"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.copper",
 					"volume": 1.0
 				},
@@ -682,10 +598,7 @@
 		"coral": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.coral",
 					"volume": 1.0
 				},
@@ -700,10 +613,7 @@
 					"sound": "use.coral"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.coral",
 					"volume": 1.0
 				},
@@ -722,10 +632,7 @@
 		"deepslate": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.deepslate",
 					"volume": 1.0
 				},
@@ -740,10 +647,7 @@
 					"sound": "use.deepslate"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.deepslate",
 					"volume": 1.0
 				},
@@ -762,10 +666,7 @@
 		"deepslate_bricks": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.deepslate_bricks",
 					"volume": 1.0
 				},
@@ -780,10 +681,7 @@
 					"sound": "use.deepslate_bricks"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.deepslate_bricks",
 					"volume": 1.0
 				},
@@ -802,10 +700,7 @@
 		"dirt_with_roots": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.hanging_roots",
 					"volume": 1.0
 				},
@@ -820,10 +715,7 @@
 					"sound": "use.hanging_roots"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.hanging_roots",
 					"volume": 1.0
 				},
@@ -899,10 +791,7 @@
 					"volume": 0.830
 				},
 				"item.use.on": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.froglight",
 					"volume": 1.0
 				},
@@ -916,10 +805,7 @@
 		"fungus": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.fungus",
 					"volume": 1.0
 				},
@@ -934,10 +820,7 @@
 					"sound": "dig.fungus"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.fungus",
 					"volume": 1.0
 				},
@@ -956,10 +839,7 @@
 		"glass": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "random.glass",
 					"volume": 1.0
 				},
@@ -974,10 +854,7 @@
 					"sound": "use.stone"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -996,10 +873,7 @@
 		"grass": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.grass",
 					"volume": 0.70
 				},
@@ -1014,10 +888,7 @@
 					"sound": "use.grass"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.grass",
 					"volume": 0.80
 				},
@@ -1036,10 +907,7 @@
 		"gravel": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.gravel",
 					"volume": 1.0
 				},
@@ -1054,10 +922,7 @@
 					"sound": "use.gravel"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.gravel",
 					"volume": 1.0
 				},
@@ -1076,10 +941,7 @@
 		"hanging_roots": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.hanging_roots",
 					"volume": 1.0
 				},
@@ -1094,10 +956,7 @@
 					"sound": "use.hanging_roots"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.hanging_roots",
 					"volume": 1.0
 				},
@@ -1116,10 +975,7 @@
 		"honey_block": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.honey_block",
 					"volume": 1.0
 				},
@@ -1134,10 +990,7 @@
 					"sound": "use.honey_block"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.honey_block",
 					"volume": 1.0
 				},
@@ -1156,10 +1009,7 @@
 		"itemframe": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.itemframe.break",
 					"volume": 1.0
 				},
@@ -1174,10 +1024,7 @@
 					"sound": "block.itemframe.place"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.itemframe.place",
 					"volume": 1.0
 				},
@@ -1196,10 +1043,7 @@
 		"ladder": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.wood",
 					"volume": 1.0
 				},
@@ -1214,10 +1058,7 @@
 					"sound": "use.ladder"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.wood",
 					"volume": 1.0
 				},
@@ -1236,10 +1077,7 @@
 		"lantern": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.lantern.break",
 					"volume": 1.0
 				},
@@ -1254,10 +1092,7 @@
 					"sound": "block.lantern.place"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.lantern.place",
 					"volume": 1.0
 				},
@@ -1306,10 +1141,7 @@
 		"lodestone": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -1324,10 +1156,7 @@
 					"sound": "dig.stone"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.lodestone",
 					"volume": 1.0
 				},
@@ -1346,10 +1175,7 @@
 		"mangrove_roots": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.mangrove_roots.break",
 					"volume": 0.40
 				},
@@ -1364,10 +1190,7 @@
 					"sound": "block.mangrove_roots.step"
 				},
 				"place": {
-					"pitch": [
-						1.0,
-						1.20
-					],
+					"pitch": [ 1.0, 1.20 ],
 					"sound": "block.mangrove_roots.place",
 					"volume": 0.250
 				}
@@ -1406,10 +1229,7 @@
 		"metal": {
 			"events": {
 				"break": {
-					"pitch": [
-						1.10,
-						1.20
-					],
+					"pitch": [ 1.10, 1.20 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -1424,10 +1244,7 @@
 					"sound": "use.anvil"
 				},
 				"place": {
-					"pitch": [
-						1.20,
-						1.250
-					],
+					"pitch": [ 1.20, 1.250 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -1488,10 +1305,7 @@
 		"mud": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.mud.break",
 					"volume": 0.40
 				},
@@ -1506,10 +1320,7 @@
 					"sound": "block.mud.step"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.mud.place",
 					"volume": 0.250
 				}
@@ -1518,10 +1329,7 @@
 		"mud_bricks": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.mud_bricks.break",
 					"volume": 0.50
 				},
@@ -1537,10 +1345,7 @@
 					"volume": 1.0
 				},
 				"place": {
-					"pitch": [
-						0.60,
-						0.80
-					],
+					"pitch": [ 0.60, 0.80 ],
 					"sound": "block.mud_bricks.place",
 					"volume": 0.30
 				}
@@ -1549,10 +1354,7 @@
 		"muddy_mangrove_roots": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.muddy_mangrove_roots.break",
 					"volume": 0.40
 				},
@@ -1567,10 +1369,7 @@
 					"sound": "block.muddy_mangrove_roots.step"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.muddy_mangrove_roots.place",
 					"volume": 0.250
 				}
@@ -1579,10 +1378,7 @@
 		"nether_brick": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.nether_brick",
 					"volume": 1.0
 				},
@@ -1597,10 +1393,7 @@
 					"sound": "use.nether_brick"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.nether_brick",
 					"volume": 1.0
 				},
@@ -1619,10 +1412,7 @@
 		"nether_gold_ore": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.nether_gold_ore",
 					"volume": 1.0
 				},
@@ -1637,10 +1427,7 @@
 					"sound": "use.nether_gold_ore"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.nether_gold_ore",
 					"volume": 1.0
 				},
@@ -1659,10 +1446,7 @@
 		"nether_sprouts": {
 			"events": {
 				"break": {
-					"pitch": [
-						1.10,
-						1.20
-					],
+					"pitch": [ 1.10, 1.20 ],
 					"sound": "dig.nether_sprouts",
 					"volume": 1.0
 				},
@@ -1677,10 +1461,7 @@
 					"sound": "use.nether_sprouts"
 				},
 				"place": {
-					"pitch": [
-						1.20,
-						1.250
-					],
+					"pitch": [ 1.20, 1.250 ],
 					"sound": "dig.nether_sprouts",
 					"volume": 1.0
 				},
@@ -1699,10 +1480,7 @@
 		"nether_wart": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.nether_wart",
 					"volume": 1.0
 				},
@@ -1717,10 +1495,7 @@
 					"sound": "use.nether_wart"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.nether_wart",
 					"volume": 0.70
 				},
@@ -1739,10 +1514,7 @@
 		"netherite": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.netherite",
 					"volume": 1.0
 				},
@@ -1757,10 +1529,7 @@
 					"sound": "use.netherite"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.netherite",
 					"volume": 1.0
 				},
@@ -1779,10 +1548,7 @@
 		"netherrack": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.netherrack",
 					"volume": 1.0
 				},
@@ -1797,10 +1563,7 @@
 					"sound": "use.netherrack"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.netherrack",
 					"volume": 1.0
 				},
@@ -1819,10 +1582,7 @@
 		"normal": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -1837,10 +1597,7 @@
 					"sound": "use.stone"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -1859,10 +1616,7 @@
 		"nylium": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.nylium",
 					"volume": 1.0
 				},
@@ -1877,10 +1631,7 @@
 					"sound": "use.nylium"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						0.80
-					],
+					"pitch": [ 0.80, 0.80 ],
 					"sound": "dig.nylium",
 					"volume": 1.0
 				},
@@ -1899,10 +1650,7 @@
 		"packed_mud": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.packed_mud.break",
 					"volume": 0.40
 				},
@@ -1917,10 +1665,7 @@
 					"sound": "block.packed_mud.step"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.packed_mud.place",
 					"volume": 0.250
 				}
@@ -1956,10 +1701,7 @@
 		"powder_snow": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.powder_snow",
 					"volume": 1.0
 				},
@@ -1974,10 +1716,7 @@
 					"sound": "use.powder_snow"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.powder_snow",
 					"volume": 1.0
 				},
@@ -1996,10 +1735,7 @@
 		"roots": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.roots",
 					"volume": 1.0
 				},
@@ -2014,10 +1750,7 @@
 					"sound": "use.roots"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.roots",
 					"volume": 1.0
 				},
@@ -2036,10 +1769,7 @@
 		"sand": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.sand",
 					"volume": 1.0
 				},
@@ -2054,10 +1784,7 @@
 					"sound": "use.sand"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.sand",
 					"volume": 1.0
 				},
@@ -2076,10 +1803,7 @@
 		"scaffolding": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.scaffolding.break",
 					"volume": 1.0
 				},
@@ -2094,10 +1818,7 @@
 					"sound": "block.scaffolding.place"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						0.90
-					],
+					"pitch": [ 0.80, 0.90 ],
 					"sound": "block.scaffolding.place",
 					"volume": 1.0
 				},
@@ -2116,10 +1837,7 @@
 		"sculk": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk",
 					"volume": 1.0
 				},
@@ -2130,18 +1848,12 @@
 					"volume": 0.350
 				},
 				"item.use.on": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.sculk",
 					"volume": 1.0
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk",
 					"volume": 1.0
 				}
@@ -2152,10 +1864,7 @@
 		"sculk_catalyst": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk_catalyst",
 					"volume": 1.0
 				},
@@ -2166,18 +1875,12 @@
 					"volume": 0.30
 				},
 				"item.use.on": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.sculk_catalyst",
 					"volume": 1.0
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk_catalyst",
 					"volume": 1.0
 				}
@@ -2186,10 +1889,7 @@
 		"sculk_sensor": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk_sensor",
 					"volume": 1.0
 				},
@@ -2204,10 +1904,7 @@
 					"sound": "use.sculk_sensor"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.sculk_sensor",
 					"volume": 0.80
 				},
@@ -2226,10 +1923,7 @@
 		"sculk_shrieker": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk_shrieker",
 					"volume": 1.0
 				},
@@ -2240,18 +1934,12 @@
 					"volume": 0.30
 				},
 				"item.use.on": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.sculk_shrieker",
 					"volume": 1.0
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk_shrieker",
 					"volume": 1.0
 				}
@@ -2260,10 +1948,7 @@
 		"sculk_vein": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk_vein",
 					"volume": 1.0
 				},
@@ -2274,18 +1959,12 @@
 					"volume": 0.30
 				},
 				"item.use.on": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.sculk_vein",
 					"volume": 1.0
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.sculk_vein",
 					"volume": 1.0
 				}
@@ -2294,10 +1973,7 @@
 		"shroomlight": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.shroomlight",
 					"volume": 1.0
 				},
@@ -2312,10 +1988,7 @@
 					"sound": "use.shroomlight"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.shroomlight",
 					"volume": 1.0
 				},
@@ -2334,10 +2007,7 @@
 		"slime": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "mob.slime.big",
 					"volume": 1.0
 				},
@@ -2352,10 +2022,7 @@
 					"sound": "use.slime"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "mob.slime.big",
 					"volume": 1.0
 				},
@@ -2404,10 +2071,7 @@
 		"snow": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.snow",
 					"volume": 1.0
 				},
@@ -2422,10 +2086,7 @@
 					"sound": "use.snow"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.snow",
 					"volume": 1.0
 				},
@@ -2444,10 +2105,7 @@
 		"soul_sand": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.soul_sand",
 					"volume": 1.0
 				},
@@ -2462,10 +2120,7 @@
 					"sound": "use.soul_sand"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.soul_sand",
 					"volume": 1.0
 				},
@@ -2484,10 +2139,7 @@
 		"soul_soil": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.soul_soil",
 					"volume": 1.0
 				},
@@ -2502,10 +2154,7 @@
 					"sound": "use.soul_soil"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.soul_soil",
 					"volume": 1.0
 				},
@@ -2524,10 +2173,7 @@
 		"spore_blossom": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "break.spore_blossom",
 					"volume": 1.0
 				},
@@ -2542,10 +2188,7 @@
 					"sound": "use.spore_blossom"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "place.spore_blossom",
 					"volume": 1.0
 				},
@@ -2564,10 +2207,7 @@
 		"stem": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stem",
 					"volume": 1.0
 				},
@@ -2582,10 +2222,7 @@
 					"sound": "use.stem"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stem",
 					"volume": 1.0
 				},
@@ -2604,10 +2241,7 @@
 		"stone": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -2622,10 +2256,7 @@
 					"sound": "use.stone"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -2644,10 +2275,7 @@
 		"sweet_berry_bush": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.sweet_berry_bush.break",
 					"volume": 1.0
 				},
@@ -2662,10 +2290,7 @@
 					"sound": "block.sweet_berry_bush.place"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "block.sweet_berry_bush.place",
 					"volume": 1.0
 				},
@@ -2715,10 +2340,7 @@
 		"turtle_egg": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "",
 					"volume": 1.0
 				},
@@ -2733,10 +2355,7 @@
 					"sound": "use.stone"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.stone",
 					"volume": 1.0
 				},
@@ -2755,10 +2374,7 @@
 		"vines": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.vines",
 					"volume": 1.0
 				},
@@ -2773,10 +2389,7 @@
 					"sound": "use.vines"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.vines",
 					"volume": 1.0
 				},
@@ -2795,10 +2408,7 @@
 		"wood": {
 			"events": {
 				"break": {
-					"pitch": [
-						0.80,
-						1.0
-					],
+					"pitch": [ 0.80, 1.0 ],
 					"sound": "dig.wood",
 					"volume": 1.0
 				},
@@ -2813,10 +2423,7 @@
 					"sound": "use.wood"
 				},
 				"place": {
-					"pitch": [
-						0.80,
-						0.80
-					],
+					"pitch": [ 0.80, 0.80 ],
 					"sound": "dig.wood",
 					"volume": 1.0
 				},
@@ -2843,31 +2450,19 @@
 				"death": "game.player.die",
 				"death.in.water": "",
 				"drink": {
-					"pitch": [
-						0.90,
-						1.10
-					],
+					"pitch": [ 0.90, 1.10 ],
 					"sound": "random.drink",
 					"volume": 0.350
 				},
 				"drink.honey": {
-					"pitch": [
-						0.90,
-						1.0
-					],
+					"pitch": [ 0.90, 1.0 ],
 					"sound": "random.drink_honey",
 					"volume": 0.50
 				},
 				"eat": {
-					"pitch": [
-						0.80,
-						1.20
-					],
+					"pitch": [ 0.80, 1.20 ],
 					"sound": "random.eat",
-					"volume": [
-						0.50,
-						1.10
-					]
+					"volume": [ 0.50, 1.10 ]
 				},
 				"fall.big": {
 					"pitch": 1.0,
@@ -2880,10 +2475,7 @@
 					"volume": 0.750
 				},
 				"fizz": {
-					"pitch": [
-						1.20,
-						2.0
-					],
+					"pitch": [ 1.20, 2.0 ],
 					"sound": "random.fizz",
 					"volume": 0.70
 				},
@@ -2891,24 +2483,15 @@
 				"hurt": "game.player.hurt",
 				"hurt.in.water": "",
 				"splash": {
-					"pitch": [
-						0.60,
-						1.40
-					],
+					"pitch": [ 0.60, 1.40 ],
 					"sound": "random.splash"
 				},
 				"swim": {
-					"pitch": [
-						0.60,
-						1.40
-					],
+					"pitch": [ 0.60, 1.40 ],
 					"sound": "random.swim"
 				}
 			},
-			"pitch": [
-				0.80,
-				1.20
-			],
+			"pitch": [ 0.80, 1.20 ],
 			"volume": 1.0
 		},
 		"entities": {
@@ -2919,10 +2502,7 @@
 					"death": "mob.allay.death",
 					"hurt": "mob.allay.hurt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1
 			},
 			"bps:container_entity_new": {
@@ -2932,10 +2512,7 @@
 					"death": "",
 					"hurt": ""
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0
 			},
 			"bps:container_entity_temp": {
@@ -2945,10 +2522,7 @@
 					"death": "",
 					"hurt": ""
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0
 			},
 			"axolotl": {
@@ -2961,10 +2535,7 @@
 					"splash": "mob.axolotl.splash",
 					"swim": "mob.axolotl.swim"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"bat": {
@@ -2973,18 +2544,12 @@
 					"death": "mob.bat.death",
 					"hurt": "mob.bat.hurt",
 					"takeoff": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.bat.takeoff",
 						"volume": 0.050
 					}
 				},
-				"pitch": [
-					0.760,
-					1.140
-				],
+				"pitch": [ 0.760, 1.140 ],
 				"volume": 0.10
 			},
 			"bee": {
@@ -2994,25 +2559,16 @@
 						"volume": 0.850
 					},
 					"attack": {
-						"pitch": [
-							0.80,
-							1.0
-						],
+						"pitch": [ 0.80, 1.0 ],
 						"sound": "mob.bee.sting"
 					},
 					"death": {
-						"pitch": [
-							0.90,
-							1.10
-						],
+						"pitch": [ 0.90, 1.10 ],
 						"sound": "mob.bee.death",
 						"volume": 0.60
 					},
 					"hurt": {
-						"pitch": [
-							0.90,
-							1.10
-						],
+						"pitch": [ 0.90, 1.10 ],
 						"sound": "mob.bee.hurt",
 						"volume": 0.60
 					}
@@ -3027,10 +2583,7 @@
 					"hurt": "mob.blaze.hit",
 					"shoot": "mob.blaze.shoot"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"cat": {
@@ -3050,10 +2603,7 @@
 					"purr": "mob.cat.purr",
 					"purreow": "mob.cat.purreow"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"cave_spider": {
@@ -3062,18 +2612,12 @@
 					"death": "mob.spider.death",
 					"hurt": "mob.spider.say",
 					"step": {
-						"pitch": [
-							0.90,
-							1.10
-						],
+						"pitch": [ 0.90, 1.10 ],
 						"sound": "mob.spider.step",
 						"volume": 0.350
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"chicken": {
@@ -3088,10 +2632,7 @@
 						"volume": 0.250
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"cod": {
@@ -3109,10 +2650,7 @@
 						"volume": 0.150
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"cow": {
@@ -3121,18 +2659,12 @@
 					"death": "mob.cow.hurt",
 					"hurt": "mob.cow.hurt",
 					"step": {
-						"pitch": [
-							0.90,
-							1.10
-						],
+						"pitch": [ 0.90, 1.10 ],
 						"sound": "mob.cow.step",
 						"volume": 0.650
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"creeper": {
@@ -3145,10 +2677,7 @@
 					},
 					"hurt": "mob.creeper.say"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"dolphin": {
@@ -3174,19 +2703,13 @@
 					"splash": "mob.dolphin.splash",
 					"swim": "mob.dolphin.swim"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"donkey": {
 				"events": {
 					"add.chest": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.armor",
 						"volume": 1.0
 					},
@@ -3203,15 +2726,9 @@
 					},
 					"death": "mob.horse.donkey.death",
 					"eat": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.eat",
-						"volume": [
-							0.50,
-							1.50
-						]
+						"volume": [ 0.50, 1.50 ]
 					},
 					"hurt": "mob.horse.donkey.hit",
 					"jump": {
@@ -3231,10 +2748,7 @@
 						"volume": 0.50
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"drowned": {
@@ -3247,10 +2761,7 @@
 					"hurt.in.water": "mob.drowned.hurt_water",
 					"step": "mob.drowned.step"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"elder_guardian": {
@@ -3267,10 +2778,7 @@
 					"hurt": "mob.guardian.land_hit",
 					"hurt.in.water": "mob.elderguardian.hit"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"ender_dragon": {
@@ -3280,10 +2788,7 @@
 					"hurt": "mob.enderdragon.hit",
 					"mad": "mob.enderdragon.growl"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 80.0
 			},
 			"enderman": {
@@ -3298,10 +2803,7 @@
 						"volume": 1.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"endermite": {
@@ -3315,30 +2817,21 @@
 						"volume": 0.150
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"evocation_fang": {
 				"events": {
 					"fang": "mob.evocation_fangs.attack"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"evocation_illager": {
 				"events": {
 					"ambient": "mob.evocation_illager.ambient",
 					"ambient.in.raid": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.evocation_illager.ambient",
 						"volume": 3.0
 					},
@@ -3350,10 +2843,7 @@
 					"prepare.summon": "mob.evocation_illager.prepare_summon",
 					"prepare.wololo": "mob.evocation_illager.prepare_wololo"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"fox": {
@@ -3372,10 +2862,7 @@
 					"sniff": "mob.fox.sniff",
 					"spit": "mob.fox.spit"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"frog": {
@@ -3392,10 +2879,7 @@
 					"jump_to_block": "mob.frog.jump_to_block",
 					"step": "mob.frog.step"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1
 			},
 			"ghast": {
@@ -3410,10 +2894,7 @@
 					},
 					"warn": "mob.ghast.charge"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 600.0
 			},
 			"glow_squid": {
@@ -3422,10 +2903,7 @@
 					"death": "mob.glow_squid.death",
 					"hurt": "mob.glow_squid.hurt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.40
 			},
 			"goat": {
@@ -3439,10 +2917,7 @@
 					"hurt.screamer": "mob.goat.hurt.screamer",
 					"step": "mob.goat.step"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1
 			},
 			"guardian": {
@@ -3459,10 +2934,7 @@
 					"hurt": "mob.guardian.land_hit",
 					"hurt.in.water": "mob.guardian.hit"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"hoglin": {
@@ -3479,19 +2951,13 @@
 						"volume": 1.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"horse": {
 				"events": {
 					"add.chest": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.armor",
 						"volume": 1.0
 					},
@@ -3508,15 +2974,9 @@
 					},
 					"death": "mob.horse.death",
 					"eat": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.eat",
-						"volume": [
-							0.50,
-							1.50
-						]
+						"volume": [ 0.50, 1.50 ]
 					},
 					"hurt": "mob.horse.hit",
 					"jump": {
@@ -3536,10 +2996,7 @@
 						"volume": 0.60
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"husk": {
@@ -3553,10 +3010,7 @@
 						"volume": 0.350
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"iron_golem": {
@@ -3577,43 +3031,28 @@
 						"volume": 1.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.0
-				],
+				"pitch": [ 0.80, 1.0 ],
 				"volume": 1.0
 			},
 			"item": {
 				"events": {
 					"fizz": {
-						"pitch": [
-							2.0,
-							2.40
-						],
+						"pitch": [ 2.0, 2.40 ],
 						"sound": "random.fizz",
 						"volume": 0.40
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"lightning_bolt": {
 				"events": {
 					"explode": {
-						"pitch": [
-							0.30,
-							0.70
-						],
+						"pitch": [ 0.30, 0.70 ],
 						"sound": "ambient.weather.lightning.impact"
 					},
 					"thunder": {
-						"pitch": [
-							0.60,
-							1.0
-						],
+						"pitch": [ 0.60, 1.0 ],
 						"sound": "ambient.weather.thunder"
 					}
 				},
@@ -3622,10 +3061,7 @@
 			"llama": {
 				"events": {
 					"add.chest": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.armor",
 						"volume": 1.0
 					},
@@ -3637,15 +3073,9 @@
 					},
 					"death": "mob.llama.death",
 					"eat": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.llama.eat",
-						"volume": [
-							0.50,
-							1.50
-						]
+						"volume": [ 0.50, 1.50 ]
 					},
 					"hurt": "mob.llama.hurt",
 					"mad": "mob.llama.angry",
@@ -3656,43 +3086,28 @@
 						"volume": 0.150
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"magma_cube": {
 				"events": {
 					"ambient": "",
 					"attack": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.attack"
 					},
 					"death": "mob.magmacube.small",
 					"hurt": "mob.magmacube.small",
 					"squish.big": {
-						"pitch": [
-							0.640,
-							0.960
-						],
+						"pitch": [ 0.640, 0.960 ],
 						"sound": "mob.magmacube.big"
 					},
 					"squish.small": {
-						"pitch": [
-							0.640,
-							0.960
-						],
+						"pitch": [ 0.640, 0.960 ],
 						"sound": "mob.magmacube.small"
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"minecart": {
@@ -3706,10 +3121,7 @@
 					"death": "dig.wood",
 					"hurt": "mob.villager.hit"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"mooshroom": {
@@ -3719,27 +3131,18 @@
 					"eat": "mob.mooshroom.eat",
 					"hurt": "mob.cow.hurt",
 					"step": {
-						"pitch": [
-							0.90,
-							1.10
-						],
+						"pitch": [ 0.90, 1.10 ],
 						"sound": "mob.cow.step",
 						"volume": 0.650
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"mule": {
 				"events": {
 					"add.chest": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.armor",
 						"volume": 1.0
 					},
@@ -3756,15 +3159,9 @@
 					},
 					"death": "mob.horse.donkey.death",
 					"eat": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.eat",
-						"volume": [
-							0.50,
-							1.50
-						]
+						"volume": [ 0.50, 1.50 ]
 					},
 					"hurt": "mob.horse.donkey.hit",
 					"jump": {
@@ -3784,10 +3181,7 @@
 						"volume": 0.60
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"npc": {
@@ -3796,10 +3190,7 @@
 					"hurt": "mob.villager.hit",
 					"spawn": "mob.villager.idle"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"ocelot": {
@@ -3812,10 +3203,7 @@
 						"volume": 0.450
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"panda": {
@@ -3842,10 +3230,7 @@
 						"volume": 0.40
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"parrot": {
@@ -3855,20 +3240,14 @@
 						"volume": 0.70
 					},
 					"death": {
-						"pitch": [
-							0.80,
-							1.0
-						],
+						"pitch": [ 0.80, 1.0 ],
 						"sound": "mob.parrot.death",
 						"volume": 1.0
 					},
 					"eat": "mob.parrot.eat",
 					"fly": "mob.parrot.fly",
 					"hurt": {
-						"pitch": [
-							0.80,
-							1.0
-						],
+						"pitch": [ 0.80, 1.0 ],
 						"sound": "mob.parrot.hurt",
 						"volume": 1.0
 					},
@@ -4029,10 +3408,7 @@
 					},
 					"step": "mob.parrot.step"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"phantom": {
@@ -4043,17 +3419,11 @@
 					"flap": "mob.phantom.flap",
 					"hurt": "mob.phantom.hurt",
 					"swoop": {
-						"pitch": [
-							0.950,
-							1.050
-						],
+						"pitch": [ 0.950, 1.050 ],
 						"sound": "mob.phantom.swoop"
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 10.0
 			},
 			"pig": {
@@ -4076,10 +3446,7 @@
 						"volume": 0.20
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"piglin": {
@@ -4098,10 +3465,7 @@
 						"volume": 0.350
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"piglin_brute": {
@@ -4115,20 +3479,14 @@
 						"volume": 0.350
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"pillager": {
 				"events": {
 					"ambient": "mob.pillager.idle",
 					"ambient.in.raid": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.pillager.idle",
 						"volume": 3.0
 					},
@@ -4136,10 +3494,7 @@
 					"death": "mob.pillager.death",
 					"hurt": "mob.pillager.hurt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"player": {
@@ -4156,18 +3511,12 @@
 					"hurt": "game.player.hurt",
 					"hurt.in.water": "game.player.hurt",
 					"throw": {
-						"pitch": [
-							0.330,
-							0.50
-						],
+						"pitch": [ 0.330, 0.50 ],
 						"sound": "random.bow",
 						"volume": 0.50
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"polar_bear": {
@@ -4190,10 +3539,7 @@
 						"volume": 0.70
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"pufferfish": {
@@ -4211,10 +3557,7 @@
 						"volume": 0.150
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"rabbit": {
@@ -4223,20 +3566,14 @@
 					"death": "mob.rabbit.death",
 					"hurt": "mob.rabbit.hurt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"ravager": {
 				"events": {
 					"ambient": "mob.ravager.ambient",
 					"ambient.in.raid": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.ravager.ambient",
 						"volume": 3.0
 					},
@@ -4248,10 +3585,7 @@
 					"step": "mob.ravager.step",
 					"stun": "mob.ravager.stun"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"salmon": {
@@ -4269,10 +3603,7 @@
 						"volume": 0.150
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"sheep": {
@@ -4286,10 +3617,7 @@
 						"volume": 0.40
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"shulker": {
@@ -4301,10 +3629,7 @@
 					"shulker.close": "mob.shulker.close",
 					"shulker.open": "mob.shulker.open"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"silverfish": {
@@ -4318,10 +3643,7 @@
 						"volume": 0.350
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"skeleton": {
@@ -4338,19 +3660,13 @@
 						"volume": 1.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"skeleton_horse": {
 				"events": {
 					"add.chest": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.armor",
 						"volume": 1.0
 					},
@@ -4383,43 +3699,28 @@
 						"volume": 0.60
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"slime": {
 				"events": {
 					"ambient": "",
 					"attack": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.attack"
 					},
 					"death": "mob.slime.small",
 					"hurt": "mob.slime.small",
 					"squish.big": {
-						"pitch": [
-							0.640,
-							0.960
-						],
+						"pitch": [ 0.640, 0.960 ],
 						"sound": "mob.slime.big"
 					},
 					"squish.small": {
-						"pitch": [
-							0.640,
-							0.960
-						],
+						"pitch": [ 0.640, 0.960 ],
 						"sound": "mob.slime.small"
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"snow_golem": {
@@ -4428,10 +3729,7 @@
 					"hurt": "mob.snowgolem.hurt",
 					"shoot": "mob.snowgolem.shoot"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"spider": {
@@ -4440,18 +3738,12 @@
 					"death": "mob.spider.death",
 					"hurt": "mob.spider.say",
 					"step": {
-						"pitch": [
-							0.90,
-							1.10
-						],
+						"pitch": [ 0.90, 1.10 ],
 						"sound": "mob.spider.step",
 						"volume": 0.350
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"squid": {
@@ -4460,10 +3752,7 @@
 					"death": "mob.squid.death",
 					"hurt": "mob.squid.hurt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.40
 			},
 			"stray": {
@@ -4477,10 +3766,7 @@
 						"volume": 1.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"strider": {
@@ -4502,10 +3788,7 @@
 					},
 					"tempt": "mob.strider.tempt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"tadpole": {
@@ -4518,19 +3801,13 @@
 					},
 					"hurt": "mob.tadpole.hurt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1
 			},
 			"trader_llama": {
 				"events": {
 					"add.chest": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.armor",
 						"volume": 1.0
 					},
@@ -4542,15 +3819,9 @@
 					},
 					"death": "mob.llama.death",
 					"eat": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.llama.eat",
-						"volume": [
-							0.50,
-							1.50
-						]
+						"volume": [ 0.50, 1.50 ]
 					},
 					"hurt": "mob.llama.hurt",
 					"mad": "mob.llama.angry",
@@ -4561,10 +3832,7 @@
 						"volume": 0.150
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"tropicalfish": {
@@ -4582,10 +3850,7 @@
 						"volume": 0.150
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"turtle": {
@@ -4611,17 +3876,11 @@
 						"volume": 1.0
 					},
 					"swim": {
-						"pitch": [
-							0.60,
-							1.40
-						],
+						"pitch": [ 0.60, 1.40 ],
 						"sound": "mob.turtle.swim"
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"vex": {
@@ -4631,10 +3890,7 @@
 					"death": "mob.vex.death",
 					"hurt": "mob.vex.hurt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"villager": {
@@ -4647,10 +3903,7 @@
 					"haggle.yes": "mob.villager.yes",
 					"hurt": "mob.villager.hit"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"villager_v2": {
@@ -4663,20 +3916,14 @@
 					"haggle.yes": "mob.villager.yes",
 					"hurt": "mob.villager.hit"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"vindicator": {
 				"events": {
 					"ambient": "mob.vindicator.idle",
 					"ambient.in.raid": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.vindicator.idle",
 						"volume": 3.0
 					},
@@ -4684,10 +3931,7 @@
 					"death": "mob.vindicator.death",
 					"hurt": "mob.vindicator.hurt"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"wandering_trader": {
@@ -4703,28 +3947,19 @@
 					"hurt": "mob.wanderingtrader.hurt",
 					"reappeared": "mob.wanderingtrader.reappeared"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"warden": {
 				"events": {
 					"agitated": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.warden.agitated",
 						"volume": 10.0
 					},
 					"ambient": "mob.warden.idle",
 					"angry": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.warden.angry",
 						"volume": 10.0
 					},
@@ -4734,10 +3969,7 @@
 						"volume": 10.0
 					},
 					"death": {
-						"pitch": [
-							0.80,
-							1.0
-						],
+						"pitch": [ 0.80, 1.0 ],
 						"sound": "mob.warden.death",
 						"volume": 1.0
 					},
@@ -4757,10 +3989,7 @@
 						"volume": 5.0
 					},
 					"hurt": {
-						"pitch": [
-							0.80,
-							1.0
-						],
+						"pitch": [ 0.80, 1.0 ],
 						"sound": "mob.warden.hurt",
 						"volume": 1.0
 					},
@@ -4770,42 +3999,27 @@
 						"volume": 3.0
 					},
 					"listening": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.warden.listening",
 						"volume": 10.0
 					},
 					"listening_angry": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.warden.listening_angry",
 						"volume": 10.0
 					},
 					"nearby_close": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.warden.nearby_close",
 						"volume": 5.0
 					},
 					"nearby_closer": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.warden.nearby_closer",
 						"volume": 5.0
 					},
 					"nearby_closest": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.warden.nearby_closest",
 						"volume": 5.0
 					},
@@ -4825,20 +4039,14 @@
 						"volume": 10.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"witch": {
 				"events": {
 					"ambient": "mob.witch.ambient",
 					"ambient.in.raid": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.witch.ambient",
 						"volume": 3.0
 					},
@@ -4856,10 +4064,7 @@
 						"volume": 1.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"wither": {
@@ -4891,10 +4096,7 @@
 						"volume": 1.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"wither_skeleton": {
@@ -4911,10 +4113,7 @@
 						"volume": 1.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"wolf": {
@@ -4925,10 +4124,7 @@
 					"hurt": "mob.wolf.hurt",
 					"pant": "mob.wolf.panting",
 					"shake": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.wolf.shake"
 					},
 					"step": {
@@ -4938,27 +4134,18 @@
 					},
 					"whine": "mob.wolf.whine"
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"xp_orb": {
 				"events": {
 					"fizz": {
-						"pitch": [
-							2.0,
-							2.40
-						],
+						"pitch": [ 2.0, 2.40 ],
 						"sound": "random.fizz",
 						"volume": 0.40
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"zoglin": {
@@ -4974,10 +4161,7 @@
 						"volume": 0.150
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"zombie": {
@@ -4991,19 +4175,13 @@
 						"volume": 0.450
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"zombie_horse": {
 				"events": {
 					"add.chest": {
-						"pitch": [
-							0.80,
-							1.20
-						],
+						"pitch": [ 0.80, 1.20 ],
 						"sound": "mob.horse.armor",
 						"volume": 1.0
 					},
@@ -5036,10 +4214,7 @@
 						"volume": 0.60
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 0.80
 			},
 			"zombie_pigman": {
@@ -5048,18 +4223,12 @@
 					"death": "mob.zombiepig.zpigdeath",
 					"hurt": "mob.zombiepig.zpighurt",
 					"mad": {
-						"pitch": [
-							1.440,
-							2.160
-						],
+						"pitch": [ 1.440, 2.160 ],
 						"sound": "mob.zombiepig.zpigangry",
 						"volume": 2.0
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"zombie_villager": {
@@ -5073,10 +4242,7 @@
 						"volume": 0.450
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			},
 			"zombie_villager_v2": {
@@ -5090,10 +4256,7 @@
 						"volume": 0.450
 					}
 				},
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"volume": 1.0
 			}
 		}
@@ -5101,10 +4264,7 @@
 	"individual_event_sounds": {
 		"events": {
 			"ambient.basalt_deltas.additions": {
-				"pitch": [
-					1,
-					1.10
-				],
+				"pitch": [ 1, 1.10 ],
 				"sound": "ambient.basalt_deltas.additions",
 				"volume": 1
 			},
@@ -5114,10 +4274,7 @@
 				"volume": 0.580
 			},
 			"ambient.basalt_deltas.mood": {
-				"pitch": [
-					0.50,
-					1.20
-				],
+				"pitch": [ 0.50, 1.20 ],
 				"sound": "ambient.basalt_deltas.mood",
 				"volume": 0.80
 			},
@@ -5127,18 +4284,12 @@
 				"volume": 1.0
 			},
 			"ambient.cave": {
-				"pitch": [
-					0.80,
-					1.0
-				],
+				"pitch": [ 0.80, 1.0 ],
 				"sound": "ambient.cave",
 				"volume": 0.70
 			},
 			"ambient.crimson_forest.additions": {
-				"pitch": [
-					1,
-					1.10
-				],
+				"pitch": [ 1, 1.10 ],
 				"sound": "ambient.crimson_forest.additions",
 				"volume": 1
 			},
@@ -5148,18 +4299,12 @@
 				"volume": 0.90
 			},
 			"ambient.crimson_forest.mood": {
-				"pitch": [
-					0.50,
-					1.20
-				],
+				"pitch": [ 0.50, 1.20 ],
 				"sound": "ambient.crimson_forest.mood",
 				"volume": 0.80
 			},
 			"ambient.nether_wastes.additions": {
-				"pitch": [
-					1,
-					1.10
-				],
+				"pitch": [ 1, 1.10 ],
 				"sound": "ambient.nether_wastes.additions",
 				"volume": 1
 			},
@@ -5169,18 +4314,12 @@
 				"volume": 0.90
 			},
 			"ambient.nether_wastes.mood": {
-				"pitch": [
-					0.50,
-					1.20
-				],
+				"pitch": [ 0.50, 1.20 ],
 				"sound": "ambient.nether_wastes.mood",
 				"volume": 0.80
 			},
 			"ambient.soulsand_valley.additions": {
-				"pitch": [
-					1,
-					1.10
-				],
+				"pitch": [ 1, 1.10 ],
 				"sound": "ambient.soulsand_valley.additions",
 				"volume": 1
 			},
@@ -5190,18 +4329,12 @@
 				"volume": 0.950
 			},
 			"ambient.soulsand_valley.mood": {
-				"pitch": [
-					0.50,
-					1.20
-				],
+				"pitch": [ 0.50, 1.20 ],
 				"sound": "ambient.soulsand_valley.mood",
 				"volume": 0.80
 			},
 			"ambient.warped_forest.additions": {
-				"pitch": [
-					1,
-					1.10
-				],
+				"pitch": [ 1, 1.10 ],
 				"sound": "ambient.warped_forest.additions",
 				"volume": 1
 			},
@@ -5211,10 +4344,7 @@
 				"volume": 0.90
 			},
 			"ambient.warped_forest.mood": {
-				"pitch": [
-					0.50,
-					1.20
-				],
+				"pitch": [ 0.50, 1.20 ],
 				"sound": "ambient.warped_forest.mood",
 				"volume": 0.80
 			},
@@ -5304,34 +4434,22 @@
 				"volume": 1.0
 			},
 			"block.beehive.drip": {
-				"pitch": [
-					0.70,
-					0.90
-				],
+				"pitch": [ 0.70, 0.90 ],
 				"sound": "block.beehive.drip",
 				"volume": 0.30
 			},
 			"block.beehive.enter": {
-				"pitch": [
-					0.70,
-					0.80
-				],
+				"pitch": [ 0.70, 0.80 ],
 				"sound": "block.beehive.enter",
 				"volume": 0.750
 			},
 			"block.beehive.exit": {
-				"pitch": [
-					0.90,
-					1.10
-				],
+				"pitch": [ 0.90, 1.10 ],
 				"sound": "block.beehive.exit",
 				"volume": 0.750
 			},
 			"block.beehive.shear": {
-				"pitch": [
-					0.80,
-					1.0
-				],
+				"pitch": [ 0.80, 1.0 ],
 				"sound": "block.beehive.shear",
 				"volume": 0.80
 			},
@@ -5474,10 +4592,7 @@
 				"volume": 1.0
 			},
 			"block.sculk_shrieker.shriek": {
-				"pitch": [
-					0.60,
-					1.0
-				],
+				"pitch": [ 0.60, 1.0 ],
 				"sound": "shriek.sculk_shrieker",
 				"volume": 0.850
 			},
@@ -5507,10 +4622,7 @@
 				"volume": 1.0
 			},
 			"block.turtle_egg.attack": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "fall.egg",
 				"volume": 0.50
 			},
@@ -5535,18 +4647,12 @@
 				"volume": 0.70
 			},
 			"bow": {
-				"pitch": [
-					0.830,
-					1.250
-				],
+				"pitch": [ 0.830, 1.250 ],
 				"sound": "random.bow",
 				"volume": 1.0
 			},
 			"bow.hit": {
-				"pitch": [
-					1.090,
-					1.30
-				],
+				"pitch": [ 1.090, 1.30 ],
 				"sound": "random.bowhit",
 				"volume": 1.0
 			},
@@ -5556,59 +4662,29 @@
 				"volume": 1.0
 			},
 			"bubble.down": {
-				"pitch": [
-					0.90,
-					1.050
-				],
+				"pitch": [ 0.90, 1.050 ],
 				"sound": "bubble.down",
-				"volume": [
-					0.40,
-					0.60
-				]
+				"volume": [ 0.40, 0.60 ]
 			},
 			"bubble.downinside": {
-				"pitch": [
-					0.90,
-					1.050
-				],
+				"pitch": [ 0.90, 1.050 ],
 				"sound": "bubble.downinside",
-				"volume": [
-					1.0,
-					1.50
-				]
+				"volume": [ 1.0, 1.50 ]
 			},
 			"bubble.pop": {
-				"pitch": [
-					0.90,
-					1.050
-				],
+				"pitch": [ 0.90, 1.050 ],
 				"sound": "bubble.pop",
-				"volume": [
-					0.40,
-					0.60
-				]
+				"volume": [ 0.40, 0.60 ]
 			},
 			"bubble.up": {
-				"pitch": [
-					0.90,
-					1.050
-				],
+				"pitch": [ 0.90, 1.050 ],
 				"sound": "bubble.up",
-				"volume": [
-					0.40,
-					0.60
-				]
+				"volume": [ 0.40, 0.60 ]
 			},
 			"bubble.upinside": {
-				"pitch": [
-					0.90,
-					1.050
-				],
+				"pitch": [ 0.90, 1.050 ],
 				"sound": "bubble.upinside",
-				"volume": [
-					1.0,
-					1.50
-				]
+				"volume": [ 1.0, 1.50 ]
 			},
 			"bucket.empty.fish": {
 				"pitch": 1.0,
@@ -5656,10 +4732,7 @@
 				"volume": 1.0
 			},
 			"burp": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "random.burp",
 				"volume": 0.50
 			},
@@ -5674,42 +4747,27 @@
 				"volume": 1.0
 			},
 			"cauldron_drip.lava.pointed_dripstone": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "cauldron_drip.lava.pointed_dripstone",
 				"volume": 2.0
 			},
 			"cauldron_drip.water.pointed_dripstone": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "cauldron_drip.water.pointed_dripstone",
 				"volume": 2.0
 			},
 			"chest.closed": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "random.chestclosed",
 				"volume": 0.50
 			},
 			"chest.open": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "random.chestopen",
 				"volume": 0.50
 			},
 			"chime.amethyst_block": {
-				"pitch": [
-					0.50,
-					1.70
-				],
+				"pitch": [ 0.50, 1.70 ],
 				"sound": "chime.amethyst_block",
 				"volume": 1.0
 			},
@@ -5754,15 +4812,9 @@
 				"volume": 1.0
 			},
 			"convert_to_drowned": {
-				"pitch": [
-					0.30,
-					1
-				],
+				"pitch": [ 0.30, 1 ],
 				"sound": "mob.zombie.converted_to_drowned",
-				"volume": [
-					1.0,
-					2.0
-				]
+				"volume": [ 1.0, 2.0 ]
 			},
 			"convert_to_frog": {
 				"pitch": 1.0,
@@ -5775,26 +4827,17 @@
 				"volume": 1.0
 			},
 			"converted_to_zombified": {
-				"pitch": [
-					0.90,
-					1.10
-				],
+				"pitch": [ 0.90, 1.10 ],
 				"sound": "mob.piglin.converted_to_zombified",
 				"volume": 1.0
 			},
 			"copper.wax.off": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "copper.wax.off",
 				"volume": 1.0
 			},
 			"copper.wax.on": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "copper.wax.on",
 				"volume": 1.0
 			},
@@ -5834,58 +4877,37 @@
 				"volume": 1.0
 			},
 			"deny": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "block.false_permissions",
 				"volume": 0.80
 			},
 			"detach": {
-				"pitch": [
-					1.10,
-					1.330
-				],
+				"pitch": [ 1.10, 1.330 ],
 				"sound": "block.bowhit",
 				"volume": 0.40
 			},
 			"drip.lava.pointed_dripstone": {
 				"pitch": 1.0,
 				"sound": "drip.lava.pointed_dripstone",
-				"volume": [
-					0.30,
-					1.0
-				]
+				"volume": [ 0.30, 1.0 ]
 			},
 			"drip.water.pointed_dripstone": {
 				"pitch": 1.0,
 				"sound": "drip.water.pointed_dripstone",
-				"volume": [
-					0.30,
-					1.0
-				]
+				"volume": [ 0.30, 1.0 ]
 			},
 			"drop.slot": {
-				"pitch": [
-					0.550,
-					0.750
-				],
+				"pitch": [ 0.550, 0.750 ],
 				"sound": "random.pop",
 				"volume": 0.30
 			},
 			"enderchest.closed": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "random.enderchestclosed",
 				"volume": 0.50
 			},
 			"enderchest.open": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "random.enderchestopen",
 				"volume": 0.50
 			},
@@ -5900,29 +4922,17 @@
 				"volume": 1.0
 			},
 			"extinguish.fire": {
-				"pitch": [
-					1.80,
-					2.40
-				],
+				"pitch": [ 1.80, 2.40 ],
 				"sound": "random.fizz",
 				"volume": 0.50
 			},
 			"fire": {
-				"pitch": [
-					0.30,
-					1.0
-				],
+				"pitch": [ 0.30, 1.0 ],
 				"sound": "fire.fire",
-				"volume": [
-					1.0,
-					2.0
-				]
+				"volume": [ 1.0, 2.0 ]
 			},
 			"fizz": {
-				"pitch": [
-					1.80,
-					2.40
-				],
+				"pitch": [ 1.80, 2.40 ],
 				"sound": "random.fizz",
 				"volume": 0.50
 			},
@@ -5982,18 +4992,12 @@
 				"volume": 1.0
 			},
 			"ignite": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "fire.ignite",
 				"volume": 1.0
 			},
 			"item.bone_meal.use": {
-				"pitch": [
-					0.90,
-					1.10
-				],
+				"pitch": [ 0.90, 1.10 ],
 				"sound": "item.bone_meal.use",
 				"volume": 1.0
 			},
@@ -6008,18 +5012,12 @@
 				"volume": 0.70
 			},
 			"item.spyglass.stop_using": {
-				"pitch": [
-					0.80,
-					1.0
-				],
+				"pitch": [ 0.80, 1.0 ],
 				"sound": "item.spyglass.stop_using",
 				"volume": 0.50
 			},
 			"item.spyglass.use": {
-				"pitch": [
-					1.150,
-					1.550
-				],
+				"pitch": [ 1.150, 1.550 ],
 				"sound": "item.spyglass.use",
 				"volume": 0.50
 			},
@@ -6064,18 +5062,12 @@
 				"volume": 1.0
 			},
 			"item_given": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "mob.allay.item_given",
 				"volume": 1
 			},
 			"item_taken": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "mob.allay.item_taken",
 				"volume": 1
 			},
@@ -6100,26 +5092,14 @@
 				"volume": 1.0
 			},
 			"lava": {
-				"pitch": [
-					0.90,
-					1.050
-				],
+				"pitch": [ 0.90, 1.050 ],
 				"sound": "liquid.lava",
-				"volume": [
-					0.40,
-					0.60
-				]
+				"volume": [ 0.40, 0.60 ]
 			},
 			"lava.pop": {
-				"pitch": [
-					0.90,
-					1.050
-				],
+				"pitch": [ 0.90, 1.050 ],
 				"sound": "liquid.lavapop",
-				"volume": [
-					0.40,
-					0.60
-				]
+				"volume": [ 0.40, 0.60 ]
 			},
 			"lay_egg": {
 				"pitch": 0.90,
@@ -6146,10 +5126,7 @@
 				"sound": "random.levelup"
 			},
 			"lodestone_compass.link_compass_to_lodestone": {
-				"pitch": [
-					0.850,
-					0.950
-				],
+				"pitch": [ 0.850, 0.950 ],
 				"sound": "lodestone_compass.link_compass_to_lodestone",
 				"volume": 1.0
 			},
@@ -6204,26 +5181,17 @@
 				"volume": 1.0
 			},
 			"nearby_close": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "nearby_close.warden",
 				"volume": 1
 			},
 			"nearby_closer": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "nearby_closer.warden",
 				"volume": 1
 			},
 			"nearby_closest": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "nearby_closest.warden",
 				"volume": 1
 			},
@@ -6232,64 +5200,37 @@
 				"volume": 3.0
 			},
 			"particle.soul_escape.loud": {
-				"pitch": [
-					0.60,
-					1.0
-				],
+				"pitch": [ 0.60, 1.0 ],
 				"sound": "particle.soul_escape",
-				"volume": [
-					1.0,
-					3.0
-				]
+				"volume": [ 1.0, 3.0 ]
 			},
 			"particle.soul_escape.quiet": {
-				"pitch": [
-					0.60,
-					1.0
-				],
+				"pitch": [ 0.60, 1.0 ],
 				"sound": "particle.soul_escape",
-				"volume": [
-					0.0,
-					0.40
-				]
+				"volume": [ 0.0, 0.40 ]
 			},
 			"pick_berries.cave_vines": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "pick_berries.cave_vines",
 				"volume": 1.0
 			},
 			"piston.in": {
-				"pitch": [
-					0.60,
-					0.750
-				],
+				"pitch": [ 0.60, 0.750 ],
 				"sound": "tile.piston.in",
 				"volume": 0.50
 			},
 			"piston.out": {
-				"pitch": [
-					0.60,
-					0.750
-				],
+				"pitch": [ 0.60, 0.750 ],
 				"sound": "tile.piston.out",
 				"volume": 0.50
 			},
 			"pop": {
-				"pitch": [
-					0.60,
-					2.20
-				],
+				"pitch": [ 0.60, 2.20 ],
 				"sound": "random.pop",
 				"volume": 0.250
 			},
 			"portal": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "portal.portal",
 				"volume": 0.250
 			},
@@ -6309,10 +5250,7 @@
 				"volume": 1.0
 			},
 			"power.off.sculk_sensor": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "power.off.sculk_sensor",
 				"volume": 0.620
 			},
@@ -6322,10 +5260,7 @@
 				"volume": 1.0
 			},
 			"power.on.sculk_sensor": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "power.on.sculk_sensor",
 				"volume": 0.730
 			},
@@ -6435,37 +5370,22 @@
 				"volume": 1.0
 			},
 			"remedy": {
-				"pitch": [
-					0.30,
-					1
-				],
+				"pitch": [ 0.30, 1 ],
 				"sound": "mob.zombie.remedy",
-				"volume": [
-					1.0,
-					2.0
-				]
+				"volume": [ 1.0, 2.0 ]
 			},
 			"respawn_anchor.charge": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "respawn_anchor.charge",
 				"volume": 1.0
 			},
 			"respawn_anchor.deplete": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "respawn_anchor.deplete",
 				"volume": 1.0
 			},
 			"respawn_anchor.set_spawn": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "respawn_anchor.set_spawn",
 				"volume": 1.0
 			},
@@ -6475,10 +5395,7 @@
 				"volume": 0.50
 			},
 			"scrape": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "scrape",
 				"volume": 1.0
 			},
@@ -6488,26 +5405,17 @@
 				"volume": 1.0
 			},
 			"shulkerbox.closed": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "random.shulkerboxclosed",
 				"volume": 0.50
 			},
 			"shulkerbox.open": {
-				"pitch": [
-					0.90,
-					1.0
-				],
+				"pitch": [ 0.90, 1.0 ],
 				"sound": "random.shulkerboxopen",
 				"volume": 0.50
 			},
 			"slightly_angry": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "slightly_angry.warden",
 				"volume": 1
 			},
@@ -6542,34 +5450,22 @@
 				"volume": 0.50
 			},
 			"tilt_down.big_dripleaf": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "tilt_down.big_dripleaf",
 				"volume": 1.0
 			},
 			"tilt_up.big_dripleaf": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "tilt_up.big_dripleaf",
 				"volume": 1.0
 			},
 			"tongue": {
-				"pitch": [
-					0.80,
-					1.20
-				],
+				"pitch": [ 0.80, 1.20 ],
 				"sound": "mob.frog.tongue",
 				"volume": 1
 			},
 			"tripod": {
-				"pitch": [
-					0.90,
-					1.10
-				],
+				"pitch": [ 0.90, 1.10 ],
 				"sound": "dig.stone",
 				"volume": 2.0
 			},
@@ -6594,26 +5490,14 @@
 				"volume": 1.0
 			},
 			"unfect": {
-				"pitch": [
-					0.30,
-					1
-				],
+				"pitch": [ 0.30, 1 ],
 				"sound": "mob.zombie.unfect",
-				"volume": [
-					1.0,
-					2.0
-				]
+				"volume": [ 1.0, 2.0 ]
 			},
 			"water": {
-				"pitch": [
-					0.50,
-					1.50
-				],
+				"pitch": [ 0.50, 1.50 ],
 				"sound": "liquid.water",
-				"volume": [
-					0.750,
-					1.0
-				]
+				"volume": [ 0.750, 1.0 ]
 			}
 		}
 	},
@@ -7686,10 +6570,7 @@
 						"volume": 0.140
 					},
 					"step": {
-						"pitch": [
-							1.0,
-							1.10
-						],
+						"pitch": [ 1.0, 1.10 ],
 						"sound": "step.netherrack",
 						"volume": 0.130
 					}
@@ -8331,10 +7212,7 @@
 							"wood": "mob.horse.wood"
 						}
 					},
-					"pitch": [
-						0.90,
-						1.10
-					],
+					"pitch": [ 0.90, 1.10 ],
 					"volume": 0.450
 				},
 				"horse": {
@@ -8350,10 +7228,7 @@
 							"wood": "mob.horse.wood"
 						}
 					},
-					"pitch": [
-						0.90,
-						1.10
-					],
+					"pitch": [ 0.90, 1.10 ],
 					"volume": 0.450
 				},
 				"mule": {
@@ -8369,10 +7244,7 @@
 							"wood": "mob.horse.wood"
 						}
 					},
-					"pitch": [
-						0.90,
-						1.10
-					],
+					"pitch": [ 0.90, 1.10 ],
 					"volume": 0.450
 				},
 				"rabbit": {
@@ -8392,10 +7264,7 @@
 							"wood": "mob.horse.wood"
 						}
 					},
-					"pitch": [
-						0.90,
-						1.10
-					],
+					"pitch": [ 0.90, 1.10 ],
 					"volume": 0.450
 				},
 				"zombie_horse": {
@@ -8411,10 +7280,7 @@
 							"wood": "mob.horse.wood"
 						}
 					},
-					"pitch": [
-						0.90,
-						1.10
-					],
+					"pitch": [ 0.90, 1.10 ],
 					"volume": 0.450
 				}
 			}

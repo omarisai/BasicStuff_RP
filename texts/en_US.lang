@@ -1,4 +1,4 @@
-pack.name=BasicStuff v1.0.11
+pack.name=BasicStuff v1.0.13
 pack.description=Experience storage, player tombstone, lockable chests.
 tile.basics:xp_block.name=XP Level Tank
 item.basics:xp_bottle_full=XP Level Bottle - 5 Levels Stored
@@ -105,8 +105,6 @@ tile.basics:concrete_silver_reinforced.name=Silver concrete reinforced
 tile.basics:concrete_white_reinforced.name=White concrete reinforced
 tile.basics:concrete_yellow_reinforced.name=Yellow concrete reinforced
 
-action.hint.exit.itemfilter:container=Backpack Open
-
 ## Ores
 tile.basics:super_coal_ore.name=Super Coal Ore
 tile.basics:super_copper_ore.name=Super Copper Ore
@@ -130,3 +128,5 @@ tile.basics:super_deepslate_diamond_ore.name=Super Deepslate Diamond Ore
 ## Nether
 tile.basics:super_nether_quartz_ore.name=Super Nether Quartz Ore
 tile.basics:super_nether_gold_ore.name=Super Nether Gold Ore
+
+action.hint.exit.itemfilter:container=Backpack Open

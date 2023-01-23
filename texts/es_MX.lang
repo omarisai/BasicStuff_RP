@@ -1,4 +1,4 @@
-pack.name=Paquete Basico v1.0.11
+pack.name=Paquete Basico v1.0.13
 pack.description=Almacenamiento de experiencia, tumbas de usuarios, cofres seguros.
 tile.basics:xp_block.name=Tanque de XP
 item.basics:xp_bottle_full=Botella de XP - 5 niveles
@@ -105,8 +105,6 @@ tile.basics:concrete_silver_reinforced.name=Concreto plata reforzado
 tile.basics:concrete_white_reinforced.name=Concreto blanco reforzado
 tile.basics:concrete_yellow_reinforced.name=Concreto amarillo reforzado
 
-action.hint.exit.itemfilter:container=Backpack Open
-
 ## Ores
 tile.basics:super_coal_ore.name=Mineral rico en Carbón
 tile.basics:super_copper_ore.name=Mineral rico en Cobre
@@ -130,3 +128,5 @@ tile.basics:super_deepslate_diamond_ore.name=Pizarra rica en Diamante
 ## Nether
 tile.basics:super_nether_quartz_ore.name=Mineral de Cuarzo del Inframundo
 tile.basics:super_nether_gold_ore.name=Mineral de Oro del Inframundo
+
+action.hint.exit.itemfilter:container=Backpack Open
